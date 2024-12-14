@@ -14,7 +14,7 @@ Images could be downloaded from [here](https://hancock.research.fau.eu/)
 
 ## Usage
 
-Please refer to the original [CLAM documentation](https://github.com/mahmoodlab/CLAM) for pipeline setup and usage instructions. WSI and TMA could be trained on CLAM individually and combined. to do Cpmbined first both datasets must be encoded to features through either models and then aggregated through [`Aggregation.ipynb`](Aggregation.ipynb). Afterwards it could be trained on the attention head and analysed using [`CLAM_UNI/AG2_heatmap_analysis.ipynb`](CLAM_UNI/AG2_heatmap_analysis.ipynb)
+Please refer to the original [CLAM documentation](https://github.com/mahmoodlab/CLAM) for pipeline setup and usage instructions. WSI and TMA could be trained on CLAM individually and combined. to do Cpmbined first both datasets must be encoded to features through either models and then aggregated through [`Aggregation.ipynb`](Aggregation.ipynb). Afterwards it could be trained on the attention head and analysed using [`AG2_heatmap_analysis.ipynb`](CLAM_UNI/AG2_heatmap_analysis.ipynb)
 
 ## Additional Scripts
 
