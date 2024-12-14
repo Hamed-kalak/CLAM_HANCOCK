@@ -1,0 +1,713 @@
+case_id,patient_id,days_to_last_information,survival_status_with_cause,recurrence,days_to_recurrence
+PrimaryTumor_HE_001,PrimaryTumor_HE_001,2258,living,no,
+PrimaryTumor_HE_002,PrimaryTumor_HE_002,1753,living,yes,357.0
+PrimaryTumor_HE_003,PrimaryTumor_HE_003,851,living,no,
+PrimaryTumor_HE_004,PrimaryTumor_HE_004,2996,living,no,
+PrimaryTumor_HE_005,PrimaryTumor_HE_005,2819,deceased not tumor specific,yes,1202.0
+PrimaryTumor_HE_006,PrimaryTumor_HE_006,991,living,no,
+PrimaryTumor_HE_007,PrimaryTumor_HE_007,1149,living,no,
+PrimaryTumor_HE_008,PrimaryTumor_HE_008,69,living,no,
+PrimaryTumor_HE_009,PrimaryTumor_HE_009,1617,living,no,
+PrimaryTumor_HE_010,PrimaryTumor_HE_010,1462,living,no,
+PrimaryTumor_HE_011,PrimaryTumor_HE_011,1785,living,no,
+PrimaryTumor_HE_012,PrimaryTumor_HE_012,2395,deceased not tumor specific,yes,974.0
+PrimaryTumor_HE_014,PrimaryTumor_HE_014,1843,living,no,
+PrimaryTumor_HE_015,PrimaryTumor_HE_015,526,living,yes,374.0
+PrimaryTumor_HE_016,PrimaryTumor_HE_016,336,deceased tumor specific,yes,238.0
+PrimaryTumor_HE_017,PrimaryTumor_HE_017,487,living,yes,459.0
+PrimaryTumor_HE_018,PrimaryTumor_HE_018,2794,living,no,
+PrimaryTumor_HE_019,PrimaryTumor_HE_019,165,deceased not tumor specific,no,
+PrimaryTumor_HE_020,PrimaryTumor_HE_020,2610,living,no,
+PrimaryTumor_HE_021,PrimaryTumor_HE_021,830,living,yes,817.0
+PrimaryTumor_HE_022,PrimaryTumor_HE_022,4670,living,no,
+PrimaryTumor_HE_023,PrimaryTumor_HE_023,204,living,no,
+PrimaryTumor_HE_024,PrimaryTumor_HE_024,1552,living,no,
+PrimaryTumor_HE_025,PrimaryTumor_HE_025,3284,living,no,
+PrimaryTumor_HE_026,PrimaryTumor_HE_026,2442,living,no,
+PrimaryTumor_HE_028,PrimaryTumor_HE_028,2688,living,yes,650.0
+PrimaryTumor_HE_029,PrimaryTumor_HE_029,733,deceased not tumor specific,no,
+PrimaryTumor_HE_030,PrimaryTumor_HE_030,2490,living,no,
+PrimaryTumor_HE_031,PrimaryTumor_HE_031,4032,living,no,
+PrimaryTumor_HE_032,PrimaryTumor_HE_032,1679,living,no,
+PrimaryTumor_HE_033,PrimaryTumor_HE_033,3023,living,no,
+PrimaryTumor_HE_034,PrimaryTumor_HE_034,1924,living,no,
+PrimaryTumor_HE_035,PrimaryTumor_HE_035,168,living,no,
+PrimaryTumor_HE_036,PrimaryTumor_HE_036,2337,living,yes,419.0
+PrimaryTumor_HE_036,PrimaryTumor_HE_036_a,2337,living,yes,419.0
+PrimaryTumor_HE_037,PrimaryTumor_HE_037,539,living,no,
+PrimaryTumor_HE_038,PrimaryTumor_HE_038,2932,living,no,
+PrimaryTumor_HE_039,PrimaryTumor_HE_039,471,deceased tumor specific,yes,471.0
+PrimaryTumor_HE_040,PrimaryTumor_HE_040,556,deceased tumor specific,yes,89.0
+PrimaryTumor_HE_041,PrimaryTumor_HE_041,1454,living,no,
+PrimaryTumor_HE_042,PrimaryTumor_HE_042,1821,living,no,
+PrimaryTumor_HE_043,PrimaryTumor_HE_043,2309,living,yes,281.0
+PrimaryTumor_HE_044,PrimaryTumor_HE_044,953,living,no,
+PrimaryTumor_HE_045,PrimaryTumor_HE_045,3187,living,no,
+PrimaryTumor_HE_046,PrimaryTumor_HE_046,124,deceased not tumor specific,no,
+PrimaryTumor_HE_047,PrimaryTumor_HE_047,4228,living,no,
+PrimaryTumor_HE_048,PrimaryTumor_HE_048,255,deceased tumor specific,no,
+PrimaryTumor_HE_049,PrimaryTumor_HE_049,1420,living,yes,1314.0
+PrimaryTumor_HE_050,PrimaryTumor_HE_050,1782,deceased tumor specific,yes,1382.0
+PrimaryTumor_HE_051,PrimaryTumor_HE_051,1476,living,no,
+PrimaryTumor_HE_052,PrimaryTumor_HE_052,844,deceased not tumor specific,no,
+PrimaryTumor_HE_053,PrimaryTumor_HE_053,4260,living,no,
+PrimaryTumor_HE_055,PrimaryTumor_HE_055,1185,living,no,
+PrimaryTumor_HE_056,PrimaryTumor_HE_056,375,deceased tumor specific,yes,263.0
+PrimaryTumor_HE_057,PrimaryTumor_HE_057,1854,living,no,
+PrimaryTumor_HE_058,PrimaryTumor_HE_058,153,deceased tumor specific,no,
+PrimaryTumor_HE_059,PrimaryTumor_HE_059,4006,living,no,
+PrimaryTumor_HE_060,PrimaryTumor_HE_060,743,living,no,
+PrimaryTumor_HE_061,PrimaryTumor_HE_061,161,deceased tumor specific,no,
+PrimaryTumor_HE_062,PrimaryTumor_HE_062,537,living,no,
+PrimaryTumor_HE_063,PrimaryTumor_HE_063,1258,living,no,
+PrimaryTumor_HE_064,PrimaryTumor_HE_064,1087,living,no,
+PrimaryTumor_HE_065,PrimaryTumor_HE_065,1203,living,yes,923.0
+PrimaryTumor_HE_066,PrimaryTumor_HE_066,358,deceased tumor specific,no,
+PrimaryTumor_HE_068,PrimaryTumor_HE_068,68,living,no,
+PrimaryTumor_HE_069,PrimaryTumor_HE_069,59,living,no,
+PrimaryTumor_HE_070,PrimaryTumor_HE_070,536,living,no,
+PrimaryTumor_HE_071,PrimaryTumor_HE_071,718,deceased tumor specific,yes,127.0
+PrimaryTumor_HE_072,PrimaryTumor_HE_072,2511,living,no,
+PrimaryTumor_HE_073,PrimaryTumor_HE_073,3232,living,no,
+PrimaryTumor_HE_074,PrimaryTumor_HE_074,2219,living,no,
+PrimaryTumor_HE_075,PrimaryTumor_HE_075,2442,living,no,
+PrimaryTumor_HE_077,PrimaryTumor_HE_077,2575,living,no,
+PrimaryTumor_HE_078,PrimaryTumor_HE_078,400,living,no,
+PrimaryTumor_HE_079,PrimaryTumor_HE_079,481,living,no,
+PrimaryTumor_HE_080,PrimaryTumor_HE_080,680,living,no,
+PrimaryTumor_HE_081,PrimaryTumor_HE_081,980,deceased tumor specific,no,
+PrimaryTumor_HE_082,PrimaryTumor_HE_082,1059,living,no,
+PrimaryTumor_HE_083,PrimaryTumor_HE_083,979,living,no,
+PrimaryTumor_HE_084,PrimaryTumor_HE_084,350,living,no,
+PrimaryTumor_HE_085,PrimaryTumor_HE_085,142,living,no,
+PrimaryTumor_HE_086,PrimaryTumor_HE_086,2079,living,no,
+PrimaryTumor_HE_087,PrimaryTumor_HE_087,798,living,no,
+PrimaryTumor_HE_088,PrimaryTumor_HE_088,105,deceased tumor specific,no,
+PrimaryTumor_HE_090,PrimaryTumor_HE_090,1018,living,no,
+PrimaryTumor_HE_091,PrimaryTumor_HE_091,901,living,no,
+PrimaryTumor_HE_092,PrimaryTumor_HE_092,1209,living,no,
+PrimaryTumor_HE_093,PrimaryTumor_HE_093,3722,living,no,
+PrimaryTumor_HE_094,PrimaryTumor_HE_094,719,living,no,
+PrimaryTumor_HE_095,PrimaryTumor_HE_095,4233,living,no,
+PrimaryTumor_HE_098,PrimaryTumor_HE_098,2257,deceased not tumor specific,no,
+PrimaryTumor_HE_099,PrimaryTumor_HE_099,709,living,yes,468.0
+PrimaryTumor_HE_100,PrimaryTumor_HE_100,847,living,no,
+PrimaryTumor_HE_101,PrimaryTumor_HE_101,604,deceased tumor specific,yes,420.0
+PrimaryTumor_HE_102,PrimaryTumor_HE_102,1830,living,yes,999.0
+PrimaryTumor_HE_103,PrimaryTumor_HE_103,752,deceased tumor specific,no,
+PrimaryTumor_HE_104,PrimaryTumor_HE_104,677,deceased tumor specific,yes,243.0
+PrimaryTumor_HE_105,PrimaryTumor_HE_105,2702,living,yes,147.0
+PrimaryTumor_HE_106,PrimaryTumor_HE_106,3133,deceased not tumor specific,no,
+PrimaryTumor_HE_108,PrimaryTumor_HE_108,1400,living,no,
+PrimaryTumor_HE_109,PrimaryTumor_HE_109,1870,living,no,
+PrimaryTumor_HE_110,PrimaryTumor_HE_110,57,living,no,
+PrimaryTumor_HE_111,PrimaryTumor_HE_111,1298,deceased not tumor specific,no,
+PrimaryTumor_HE_112,PrimaryTumor_HE_112,3287,living,no,
+PrimaryTumor_HE_113,PrimaryTumor_HE_113,102,deceased tumor specific,no,
+PrimaryTumor_HE_114,PrimaryTumor_HE_114,713,deceased not tumor specific,no,
+PrimaryTumor_HE_115,PrimaryTumor_HE_115,2267,living,no,
+PrimaryTumor_HE_116,PrimaryTumor_HE_116,584,living,no,
+PrimaryTumor_HE_117,PrimaryTumor_HE_117,73,living,no,
+PrimaryTumor_HE_118,PrimaryTumor_HE_118,64,deceased tumor specific,no,
+PrimaryTumor_HE_119,PrimaryTumor_HE_119,2984,living,no,
+PrimaryTumor_HE_120,PrimaryTumor_HE_120,1293,living,no,
+PrimaryTumor_HE_121,PrimaryTumor_HE_121,3204,living,no,
+PrimaryTumor_HE_122,PrimaryTumor_HE_122,2829,deceased,no,
+PrimaryTumor_HE_123,PrimaryTumor_HE_123,699,living,no,
+PrimaryTumor_HE_124,PrimaryTumor_HE_124,1463,living,no,
+PrimaryTumor_HE_125,PrimaryTumor_HE_125,2755,deceased not tumor specific,no,
+PrimaryTumor_HE_126,PrimaryTumor_HE_126,2264,deceased not tumor specific,no,
+PrimaryTumor_HE_127,PrimaryTumor_HE_127,2396,living,no,
+PrimaryTumor_HE_128,PrimaryTumor_HE_128,2970,living,yes,772.0
+PrimaryTumor_HE_130,PrimaryTumor_HE_130,1945,living,no,
+PrimaryTumor_HE_131,PrimaryTumor_HE_131,156,living,no,
+PrimaryTumor_HE_133,PrimaryTumor_HE_133,549,deceased tumor specific,yes,115.0
+PrimaryTumor_HE_134,PrimaryTumor_HE_134,639,living,no,
+PrimaryTumor_HE_135,PrimaryTumor_HE_135,1408,living,no,
+PrimaryTumor_HE_136,PrimaryTumor_HE_136,1205,deceased not tumor specific,no,
+PrimaryTumor_HE_137,PrimaryTumor_HE_137,1183,deceased not tumor specific,no,
+PrimaryTumor_HE_138,PrimaryTumor_HE_138,2186,living,no,
+PrimaryTumor_HE_139,PrimaryTumor_HE_139,3470,deceased not tumor specific,no,
+PrimaryTumor_HE_140,PrimaryTumor_HE_140,1931,living,no,
+PrimaryTumor_HE_141,PrimaryTumor_HE_141,3012,deceased not tumor specific,no,
+PrimaryTumor_HE_142,PrimaryTumor_HE_142,2739,living,no,
+PrimaryTumor_HE_144,PrimaryTumor_HE_144,2961,deceased not tumor specific,no,
+PrimaryTumor_HE_145,PrimaryTumor_HE_145,1181,living,no,
+PrimaryTumor_HE_146,PrimaryTumor_HE_146,1484,living,yes,254.0
+PrimaryTumor_HE_147,PrimaryTumor_HE_147,191,deceased tumor specific,no,
+PrimaryTumor_HE_148,PrimaryTumor_HE_148,115,living,no,
+PrimaryTumor_HE_149,PrimaryTumor_HE_149,1806,living,no,
+PrimaryTumor_HE_151,PrimaryTumor_HE_151,87,living,no,
+PrimaryTumor_HE_152,PrimaryTumor_HE_152,1526,living,yes,1519.0
+PrimaryTumor_HE_153,PrimaryTumor_HE_153,1146,living,yes,196.0
+PrimaryTumor_HE_154,PrimaryTumor_HE_154,449,deceased tumor specific,no,
+PrimaryTumor_HE_155,PrimaryTumor_HE_155,1484,living,no,
+PrimaryTumor_HE_156,PrimaryTumor_HE_156,636,living,no,
+PrimaryTumor_HE_157,PrimaryTumor_HE_157,411,living,no,
+PrimaryTumor_HE_158,PrimaryTumor_HE_158,954,living,yes,308.0
+PrimaryTumor_HE_159,PrimaryTumor_HE_159,1760,living,no,
+PrimaryTumor_HE_160,PrimaryTumor_HE_160,4234,living,no,
+PrimaryTumor_HE_161,PrimaryTumor_HE_161,1107,deceased not tumor specific,no,
+PrimaryTumor_HE_162,PrimaryTumor_HE_162,1896,living,no,
+PrimaryTumor_HE_163,PrimaryTumor_HE_163,966,living,no,
+PrimaryTumor_HE_164,PrimaryTumor_HE_164,148,living,no,
+PrimaryTumor_HE_165,PrimaryTumor_HE_165,3766,deceased tumor specific,yes,3522.0
+PrimaryTumor_HE_166,PrimaryTumor_HE_166,1022,living,no,
+PrimaryTumor_HE_167,PrimaryTumor_HE_167,757,deceased not tumor specific,no,
+PrimaryTumor_HE_168,PrimaryTumor_HE_168,995,living,no,
+PrimaryTumor_HE_169,PrimaryTumor_HE_169,35,living,no,
+PrimaryTumor_HE_170,PrimaryTumor_HE_170,398,deceased tumor specific,yes,301.0
+PrimaryTumor_HE_171,PrimaryTumor_HE_171,1055,living,yes,636.0
+PrimaryTumor_HE_172,PrimaryTumor_HE_172,1504,living,no,
+PrimaryTumor_HE_174,PrimaryTumor_HE_174,157,living,no,
+PrimaryTumor_HE_175,PrimaryTumor_HE_175,2814,deceased not tumor specific,no,
+PrimaryTumor_HE_176,PrimaryTumor_HE_176,706,deceased tumor specific,yes,412.0
+PrimaryTumor_HE_177,PrimaryTumor_HE_177,380,living,no,
+PrimaryTumor_HE_178,PrimaryTumor_HE_178,222,living,no,
+PrimaryTumor_HE_179,PrimaryTumor_HE_179,2275,living,yes,2275.0
+PrimaryTumor_HE_180,PrimaryTumor_HE_180,419,living,no,
+PrimaryTumor_HE_181,PrimaryTumor_HE_181,612,deceased tumor specific,yes,133.0
+PrimaryTumor_HE_182,PrimaryTumor_HE_182,2442,living,no,
+PrimaryTumor_HE_183,PrimaryTumor_HE_183,164,living,no,
+PrimaryTumor_HE_184,PrimaryTumor_HE_184,1360,living,no,
+PrimaryTumor_HE_185,PrimaryTumor_HE_185,674,living,no,
+PrimaryTumor_HE_187,PrimaryTumor_HE_187,1520,living,no,
+PrimaryTumor_HE_188,PrimaryTumor_HE_188,318,deceased tumor specific,yes,196.0
+PrimaryTumor_HE_189,PrimaryTumor_HE_189,1896,living,no,
+PrimaryTumor_HE_190,PrimaryTumor_HE_190,3038,deceased not tumor specific,no,
+PrimaryTumor_HE_191,PrimaryTumor_HE_191,1310,living,no,
+PrimaryTumor_HE_192,PrimaryTumor_HE_192,1314,deceased not tumor specific,no,
+PrimaryTumor_HE_193,PrimaryTumor_HE_193,1007,deceased not tumor specific,no,
+PrimaryTumor_HE_194,PrimaryTumor_HE_194,2379,living,no,
+PrimaryTumor_HE_195,PrimaryTumor_HE_195,1000,living,no,
+PrimaryTumor_HE_196,PrimaryTumor_HE_196,102,living,no,
+PrimaryTumor_HE_198,PrimaryTumor_HE_198,195,living,no,
+PrimaryTumor_HE_200,PrimaryTumor_HE_200,1799,living,no,
+PrimaryTumor_HE_201,PrimaryTumor_HE_201,426,deceased not tumor specific,no,
+PrimaryTumor_HE_202,PrimaryTumor_HE_202,485,living,no,
+PrimaryTumor_HE_203,PrimaryTumor_HE_203,484,living,no,
+PrimaryTumor_HE_205,PrimaryTumor_HE_205,2311,living,no,
+PrimaryTumor_HE_206,PrimaryTumor_HE_206,2366,living,no,
+PrimaryTumor_HE_207,PrimaryTumor_HE_207,1337,living,no,
+PrimaryTumor_HE_208,PrimaryTumor_HE_208,284,living,no,
+PrimaryTumor_HE_209,PrimaryTumor_HE_209,2679,living,no,
+PrimaryTumor_HE_210,PrimaryTumor_HE_210,789,living,no,
+PrimaryTumor_HE_211,PrimaryTumor_HE_211,1183,deceased tumor specific,yes,501.0
+PrimaryTumor_HE_212,PrimaryTumor_HE_212,2174,living,no,
+PrimaryTumor_HE_213,PrimaryTumor_HE_213,488,living,no,
+PrimaryTumor_HE_214,PrimaryTumor_HE_214,15,deceased tumor specific,no,
+PrimaryTumor_HE_215,PrimaryTumor_HE_215,3043,living,no,
+PrimaryTumor_HE_216,PrimaryTumor_HE_216,1110,deceased not tumor specific,no,
+PrimaryTumor_HE_217,PrimaryTumor_HE_217,43,living,no,
+PrimaryTumor_HE_218,PrimaryTumor_HE_218,229,deceased tumor specific,yes,229.0
+PrimaryTumor_HE_219,PrimaryTumor_HE_219,937,living,yes,339.0
+PrimaryTumor_HE_220,PrimaryTumor_HE_220,253,deceased not tumor specific,no,
+PrimaryTumor_HE_221,PrimaryTumor_HE_221,2533,living,no,
+PrimaryTumor_HE_222,PrimaryTumor_HE_222,3788,living,no,
+PrimaryTumor_HE_223,PrimaryTumor_HE_223,835,living,no,
+PrimaryTumor_HE_224,PrimaryTumor_HE_224,1301,living,no,
+PrimaryTumor_HE_225,PrimaryTumor_HE_225,652,deceased not tumor specific,no,
+PrimaryTumor_HE_226,PrimaryTumor_HE_226,896,living,no,
+PrimaryTumor_HE_227,PrimaryTumor_HE_227,342,living,no,
+PrimaryTumor_HE_228,PrimaryTumor_HE_228,29,deceased tumor specific,no,
+PrimaryTumor_HE_229,PrimaryTumor_HE_229,3629,living,no,
+PrimaryTumor_HE_230,PrimaryTumor_HE_230,305,deceased not tumor specific,no,
+PrimaryTumor_HE_231,PrimaryTumor_HE_231,72,deceased tumor specific,no,
+PrimaryTumor_HE_232,PrimaryTumor_HE_232,2445,deceased not tumor specific,no,
+PrimaryTumor_HE_233,PrimaryTumor_HE_233,919,living,no,
+PrimaryTumor_HE_234,PrimaryTumor_HE_234,54,deceased tumor specific,no,
+PrimaryTumor_HE_235,PrimaryTumor_HE_235,1223,living,no,
+PrimaryTumor_HE_236,PrimaryTumor_HE_236,1185,living,no,
+PrimaryTumor_HE_237,PrimaryTumor_HE_237,212,living,no,
+PrimaryTumor_HE_238,PrimaryTumor_HE_238,2472,living,yes,2269.0
+PrimaryTumor_HE_239,PrimaryTumor_HE_239,596,living,no,
+PrimaryTumor_HE_239,PrimaryTumor_HE_239_a,596,living,no,
+PrimaryTumor_HE_240,PrimaryTumor_HE_240,954,living,no,
+PrimaryTumor_HE_242,PrimaryTumor_HE_242,125,living,no,
+PrimaryTumor_HE_243,PrimaryTumor_HE_243,849,living,no,
+PrimaryTumor_HE_244,PrimaryTumor_HE_244,2030,living,no,
+PrimaryTumor_HE_245,PrimaryTumor_HE_245,1629,living,no,
+PrimaryTumor_HE_246,PrimaryTumor_HE_246,3024,living,no,
+PrimaryTumor_HE_247,PrimaryTumor_HE_247,1161,living,no,
+PrimaryTumor_HE_248,PrimaryTumor_HE_248,1958,living,no,
+PrimaryTumor_HE_249,PrimaryTumor_HE_249,1551,deceased tumor specific,no,
+PrimaryTumor_HE_250,PrimaryTumor_HE_250,78,deceased tumor specific,no,
+PrimaryTumor_HE_251,PrimaryTumor_HE_251,4145,living,no,
+PrimaryTumor_HE_251,PrimaryTumor_HE_251_a,4145,living,no,
+PrimaryTumor_HE_252,PrimaryTumor_HE_252,1631,living,no,
+PrimaryTumor_HE_253,PrimaryTumor_HE_253,244,deceased tumor specific,yes,88.0
+PrimaryTumor_HE_254,PrimaryTumor_HE_254,2331,living,no,
+PrimaryTumor_HE_255,PrimaryTumor_HE_255,967,deceased not tumor specific,no,
+PrimaryTumor_HE_256,PrimaryTumor_HE_256,1610,living,no,
+PrimaryTumor_HE_257,PrimaryTumor_HE_257,2249,living,no,
+PrimaryTumor_HE_258,PrimaryTumor_HE_258,2064,living,no,
+PrimaryTumor_HE_259,PrimaryTumor_HE_259,1108,living,no,
+PrimaryTumor_HE_260,PrimaryTumor_HE_260,301,living,no,
+PrimaryTumor_HE_261,PrimaryTumor_HE_261,3423,living,yes,2885.0
+PrimaryTumor_HE_262,PrimaryTumor_HE_262,3197,living,no,
+PrimaryTumor_HE_263,PrimaryTumor_HE_263,802,deceased tumor specific,yes,147.0
+PrimaryTumor_HE_264,PrimaryTumor_HE_264,78,deceased tumor specific,yes,60.0
+PrimaryTumor_HE_267,PrimaryTumor_HE_267,1039,deceased not tumor specific,no,
+PrimaryTumor_HE_269,PrimaryTumor_HE_269,1716,living,no,
+PrimaryTumor_HE_270,PrimaryTumor_HE_270,1109,living,no,
+PrimaryTumor_HE_271,PrimaryTumor_HE_271,1832,living,no,
+PrimaryTumor_HE_273,PrimaryTumor_HE_273,742,living,no,
+PrimaryTumor_HE_274,PrimaryTumor_HE_274,1745,living,no,
+PrimaryTumor_HE_275,PrimaryTumor_HE_275,1818,living,no,
+PrimaryTumor_HE_276,PrimaryTumor_HE_276,1888,living,no,
+PrimaryTumor_HE_277,PrimaryTumor_HE_277,251,living,no,
+PrimaryTumor_HE_277,PrimaryTumor_HE_277_a,251,living,no,
+PrimaryTumor_HE_278,PrimaryTumor_HE_278,633,deceased tumor specific,yes,264.0
+PrimaryTumor_HE_279,PrimaryTumor_HE_279,2308,living,no,
+PrimaryTumor_HE_280,PrimaryTumor_HE_280,1365,living,no,
+PrimaryTumor_HE_281,PrimaryTumor_HE_281,1372,living,no,
+PrimaryTumor_HE_283,PrimaryTumor_HE_283,4097,living,no,
+PrimaryTumor_HE_284,PrimaryTumor_HE_284,2415,deceased not tumor specific,no,
+PrimaryTumor_HE_285,PrimaryTumor_HE_285,2086,living,no,
+PrimaryTumor_HE_286,PrimaryTumor_HE_286,2919,living,no,
+PrimaryTumor_HE_287,PrimaryTumor_HE_287,368,deceased,no,
+PrimaryTumor_HE_288,PrimaryTumor_HE_288,1075,living,no,
+PrimaryTumor_HE_289,PrimaryTumor_HE_289,740,living,yes,713.0
+PrimaryTumor_HE_290,PrimaryTumor_HE_290,2824,living,no,
+PrimaryTumor_HE_291,PrimaryTumor_HE_291,1401,living,no,
+PrimaryTumor_HE_292,PrimaryTumor_HE_292,468,deceased not tumor specific,no,
+PrimaryTumor_HE_293,PrimaryTumor_HE_293,2682,living,no,
+PrimaryTumor_HE_294,PrimaryTumor_HE_294,2135,living,yes,204.0
+PrimaryTumor_HE_295,PrimaryTumor_HE_295,196,deceased not tumor specific,yes,191.0
+PrimaryTumor_HE_296,PrimaryTumor_HE_296,55,deceased not tumor specific,no,
+PrimaryTumor_HE_297,PrimaryTumor_HE_297,127,deceased tumor specific,no,
+PrimaryTumor_HE_298,PrimaryTumor_HE_298,170,deceased tumor specific,yes,161.0
+PrimaryTumor_HE_301,PrimaryTumor_HE_301,335,deceased tumor specific,yes,261.0
+PrimaryTumor_HE_303,PrimaryTumor_HE_303,503,living,yes,383.0
+PrimaryTumor_HE_304,PrimaryTumor_HE_304,2076,deceased tumor specific,yes,1563.0
+PrimaryTumor_HE_306,PrimaryTumor_HE_306,2773,living,yes,274.0
+PrimaryTumor_HE_307,PrimaryTumor_HE_307,3325,living,no,
+PrimaryTumor_HE_308,PrimaryTumor_HE_308,802,living,yes,743.0
+PrimaryTumor_HE_309,PrimaryTumor_HE_309,1996,deceased not tumor specific,no,
+PrimaryTumor_HE_310,PrimaryTumor_HE_310,748,living,no,
+PrimaryTumor_HE_311,PrimaryTumor_HE_311,1574,deceased tumor specific,no,
+PrimaryTumor_HE_312,PrimaryTumor_HE_312,478,deceased tumor specific,no,
+PrimaryTumor_HE_313,PrimaryTumor_HE_313,607,living,no,
+PrimaryTumor_HE_314,PrimaryTumor_HE_314,1080,deceased tumor specific,yes,720.0
+PrimaryTumor_HE_315,PrimaryTumor_HE_315,1679,living,no,
+PrimaryTumor_HE_316,PrimaryTumor_HE_316,827,deceased tumor specific,yes,359.0
+PrimaryTumor_HE_317,PrimaryTumor_HE_317,1838,living,yes,200.0
+PrimaryTumor_HE_318,PrimaryTumor_HE_318,880,living,no,
+PrimaryTumor_HE_319,PrimaryTumor_HE_319,2608,living,no,
+PrimaryTumor_HE_320,PrimaryTumor_HE_320,38,living,no,
+PrimaryTumor_HE_321,PrimaryTumor_HE_321,4963,living,no,
+PrimaryTumor_HE_322,PrimaryTumor_HE_322,1941,living,no,
+PrimaryTumor_HE_323,PrimaryTumor_HE_323,1378,living,no,
+PrimaryTumor_HE_324,PrimaryTumor_HE_324,708,deceased tumor specific,yes,609.0
+PrimaryTumor_HE_325,PrimaryTumor_HE_325,1147,deceased tumor specific,yes,185.0
+PrimaryTumor_HE_326,PrimaryTumor_HE_326,838,deceased tumor specific,yes,438.0
+PrimaryTumor_HE_327,PrimaryTumor_HE_327,1316,living,no,
+PrimaryTumor_HE_328,PrimaryTumor_HE_328,784,deceased not tumor specific,yes,384.0
+PrimaryTumor_HE_330,PrimaryTumor_HE_330,367,deceased not tumor specific,no,
+PrimaryTumor_HE_331,PrimaryTumor_HE_331,3046,living,yes,945.0
+PrimaryTumor_HE_333,PrimaryTumor_HE_333,999,deceased tumor specific,no,
+PrimaryTumor_HE_334,PrimaryTumor_HE_334,645,deceased tumor specific,yes,567.0
+PrimaryTumor_HE_335,PrimaryTumor_HE_335,942,deceased not tumor specific,no,
+PrimaryTumor_HE_336,PrimaryTumor_HE_336,1901,living,no,
+PrimaryTumor_HE_337,PrimaryTumor_HE_337,1828,living,yes,258.0
+PrimaryTumor_HE_338,PrimaryTumor_HE_338,1547,living,no,
+PrimaryTumor_HE_339,PrimaryTumor_HE_339,1629,living,no,
+PrimaryTumor_HE_340,PrimaryTumor_HE_340,1753,deceased tumor specific,yes,287.0
+PrimaryTumor_HE_342,PrimaryTumor_HE_342,1599,deceased not tumor specific,no,
+PrimaryTumor_HE_343,PrimaryTumor_HE_343,2254,living,no,
+PrimaryTumor_HE_344,PrimaryTumor_HE_344,2330,living,no,
+PrimaryTumor_HE_345,PrimaryTumor_HE_345,2822,deceased not tumor specific,no,
+PrimaryTumor_HE_346,PrimaryTumor_HE_346,1479,living,no,
+PrimaryTumor_HE_347,PrimaryTumor_HE_347,1838,living,no,
+PrimaryTumor_HE_349,PrimaryTumor_HE_349,796,deceased tumor specific,yes,64.0
+PrimaryTumor_HE_350,PrimaryTumor_HE_350,3007,living,no,
+PrimaryTumor_HE_351,PrimaryTumor_HE_351,242,living,no,
+PrimaryTumor_HE_352,PrimaryTumor_HE_352,1211,living,no,
+PrimaryTumor_HE_353,PrimaryTumor_HE_353,2233,living,no,
+PrimaryTumor_HE_354,PrimaryTumor_HE_354,1456,living,no,
+PrimaryTumor_HE_355,PrimaryTumor_HE_355,29,living,no,
+PrimaryTumor_HE_356,PrimaryTumor_HE_356,1521,living,yes,328.0
+PrimaryTumor_HE_357,PrimaryTumor_HE_357,1680,living,no,
+PrimaryTumor_HE_358,PrimaryTumor_HE_358,2372,living,no,
+PrimaryTumor_HE_359,PrimaryTumor_HE_359,1399,living,yes,1210.0
+PrimaryTumor_HE_360,PrimaryTumor_HE_360,1612,living,no,
+PrimaryTumor_HE_361,PrimaryTumor_HE_361,1553,living,no,
+PrimaryTumor_HE_362,PrimaryTumor_HE_362,2494,living,no,
+PrimaryTumor_HE_363,PrimaryTumor_HE_363,1699,living,no,
+PrimaryTumor_HE_364,PrimaryTumor_HE_364,2845,living,no,
+PrimaryTumor_HE_365,PrimaryTumor_HE_365,225,living,no,
+PrimaryTumor_HE_366,PrimaryTumor_HE_366,2612,living,no,
+PrimaryTumor_HE_367,PrimaryTumor_HE_367,2217,living,no,
+PrimaryTumor_HE_368,PrimaryTumor_HE_368,1748,living,yes,1484.0
+PrimaryTumor_HE_369,PrimaryTumor_HE_369,3760,deceased tumor specific,no,
+PrimaryTumor_HE_370,PrimaryTumor_HE_370,1797,living,yes,54.0
+PrimaryTumor_HE_371,PrimaryTumor_HE_371,3751,living,no,
+PrimaryTumor_HE_372,PrimaryTumor_HE_372,2475,living,no,
+PrimaryTumor_HE_373,PrimaryTumor_HE_373,920,living,no,
+PrimaryTumor_HE_374,PrimaryTumor_HE_374,196,living,no,
+PrimaryTumor_HE_375,PrimaryTumor_HE_375,1251,living,no,
+PrimaryTumor_HE_376,PrimaryTumor_HE_376,1370,living,no,
+PrimaryTumor_HE_377,PrimaryTumor_HE_377,1342,deceased not tumor specific,no,
+PrimaryTumor_HE_378,PrimaryTumor_HE_378,849,living,no,
+PrimaryTumor_HE_379,PrimaryTumor_HE_379,106,deceased,no,
+PrimaryTumor_HE_380,PrimaryTumor_HE_380,56,living,no,
+PrimaryTumor_HE_381,PrimaryTumor_HE_381,1177,deceased tumor specific,yes,945.0
+PrimaryTumor_HE_383,PrimaryTumor_HE_383,1479,deceased tumor specific,yes,1305.0
+PrimaryTumor_HE_384,PrimaryTumor_HE_384,291,deceased tumor specific,yes,169.0
+PrimaryTumor_HE_385,PrimaryTumor_HE_385,562,deceased tumor specific,yes,86.0
+PrimaryTumor_HE_386,PrimaryTumor_HE_386,362,living,no,
+PrimaryTumor_HE_387,PrimaryTumor_HE_387,315,living,no,
+PrimaryTumor_HE_388,PrimaryTumor_HE_388,148,living,no,
+PrimaryTumor_HE_389,PrimaryTumor_HE_389,3088,living,no,
+PrimaryTumor_HE_390,PrimaryTumor_HE_390,1751,living,no,
+PrimaryTumor_HE_391,PrimaryTumor_HE_391,1072,deceased tumor specific,yes,670.0
+PrimaryTumor_HE_392,PrimaryTumor_HE_392,1128,living,no,
+PrimaryTumor_HE_393,PrimaryTumor_HE_393,2499,living,no,
+PrimaryTumor_HE_394,PrimaryTumor_HE_394,350,living,no,
+PrimaryTumor_HE_396,PrimaryTumor_HE_396,2737,living,no,
+PrimaryTumor_HE_397,PrimaryTumor_HE_397,2149,living,no,
+PrimaryTumor_HE_398,PrimaryTumor_HE_398,2578,living,no,
+PrimaryTumor_HE_399,PrimaryTumor_HE_399,113,deceased tumor specific,no,
+PrimaryTumor_HE_400,PrimaryTumor_HE_400,335,living,no,
+PrimaryTumor_HE_401,PrimaryTumor_HE_401,931,living,no,
+PrimaryTumor_HE_402,PrimaryTumor_HE_402,2728,living,no,
+PrimaryTumor_HE_403,PrimaryTumor_HE_403,842,deceased tumor specific,yes,804.0
+PrimaryTumor_HE_404,PrimaryTumor_HE_404,1346,living,no,
+PrimaryTumor_HE_405,PrimaryTumor_HE_405,954,living,yes,13.0
+PrimaryTumor_HE_406,PrimaryTumor_HE_406,234,living,no,
+PrimaryTumor_HE_407,PrimaryTumor_HE_407,1220,living,no,
+PrimaryTumor_HE_408,PrimaryTumor_HE_408,1054,living,no,
+PrimaryTumor_HE_409,PrimaryTumor_HE_409,1676,living,no,
+PrimaryTumor_HE_410,PrimaryTumor_HE_410,2911,living,no,
+PrimaryTumor_HE_411,PrimaryTumor_HE_411,2428,living,no,
+PrimaryTumor_HE_412,PrimaryTumor_HE_412,2436,living,no,
+PrimaryTumor_HE_413,PrimaryTumor_HE_413,2789,living,no,
+PrimaryTumor_HE_414,PrimaryTumor_HE_414,960,living,no,
+PrimaryTumor_HE_415,PrimaryTumor_HE_415,705,deceased tumor specific,yes,353.0
+PrimaryTumor_HE_416,PrimaryTumor_HE_416,24,living,no,
+PrimaryTumor_HE_417,PrimaryTumor_HE_417,145,deceased tumor specific,no,
+PrimaryTumor_HE_418,PrimaryTumor_HE_418,548,deceased tumor specific,yes,388.0
+PrimaryTumor_HE_419,PrimaryTumor_HE_419,2669,living,no,
+PrimaryTumor_HE_420,PrimaryTumor_HE_420,2853,living,no,
+PrimaryTumor_HE_421,PrimaryTumor_HE_421,891,deceased tumor specific,yes,405.0
+PrimaryTumor_HE_422,PrimaryTumor_HE_422,1185,living,no,
+PrimaryTumor_HE_423,PrimaryTumor_HE_423,3037,living,no,
+PrimaryTumor_HE_424,PrimaryTumor_HE_424,414,deceased not tumor specific,yes,135.0
+PrimaryTumor_HE_425,PrimaryTumor_HE_425,261,living,no,
+PrimaryTumor_HE_426,PrimaryTumor_HE_426,415,living,no,
+PrimaryTumor_HE_427,PrimaryTumor_HE_427,2810,living,no,
+PrimaryTumor_HE_428,PrimaryTumor_HE_428,1121,living,no,
+PrimaryTumor_HE_428,PrimaryTumor_HE_428_a,1121,living,no,
+PrimaryTumor_HE_429,PrimaryTumor_HE_429,1835,living,yes,696.0
+PrimaryTumor_HE_430,PrimaryTumor_HE_430,1720,living,no,
+PrimaryTumor_HE_431,PrimaryTumor_HE_431,1323,living,no,
+PrimaryTumor_HE_432,PrimaryTumor_HE_432,1230,living,yes,237.0
+PrimaryTumor_HE_433,PrimaryTumor_HE_433,2194,deceased tumor specific,yes,1118.0
+PrimaryTumor_HE_434,PrimaryTumor_HE_434,1418,deceased tumor specific,yes,683.0
+PrimaryTumor_HE_435,PrimaryTumor_HE_435,413,deceased tumor specific,no,
+PrimaryTumor_HE_436,PrimaryTumor_HE_436,515,deceased tumor specific,yes,250.0
+PrimaryTumor_HE_437,PrimaryTumor_HE_437,1684,deceased tumor specific,yes,182.0
+PrimaryTumor_HE_439,PrimaryTumor_HE_439,392,living,yes,309.0
+PrimaryTumor_HE_441,PrimaryTumor_HE_441,2807,living,no,
+PrimaryTumor_HE_442,PrimaryTumor_HE_442,729,living,no,
+PrimaryTumor_HE_443,PrimaryTumor_HE_443,2744,living,no,
+PrimaryTumor_HE_444,PrimaryTumor_HE_444,2038,deceased tumor specific,no,
+PrimaryTumor_HE_445,PrimaryTumor_HE_445,660,living,no,
+PrimaryTumor_HE_447,PrimaryTumor_HE_447,1641,living,no,
+PrimaryTumor_HE_449,PrimaryTumor_HE_449,842,living,no,
+PrimaryTumor_HE_450,PrimaryTumor_HE_450,510,living,no,
+PrimaryTumor_HE_451,PrimaryTumor_HE_451,2167,deceased not tumor specific,no,
+PrimaryTumor_HE_452,PrimaryTumor_HE_452,2695,living,no,
+PrimaryTumor_HE_453,PrimaryTumor_HE_453,2310,living,no,
+PrimaryTumor_HE_454,PrimaryTumor_HE_454,3053,living,no,
+PrimaryTumor_HE_455,PrimaryTumor_HE_455,47,living,no,
+PrimaryTumor_HE_456,PrimaryTumor_HE_456,1041,living,no,
+PrimaryTumor_HE_457,PrimaryTumor_HE_457,117,living,no,
+PrimaryTumor_HE_458,PrimaryTumor_HE_458,290,living,no,
+PrimaryTumor_HE_459,PrimaryTumor_HE_459,1160,deceased not tumor specific,no,
+PrimaryTumor_HE_460,PrimaryTumor_HE_460,38,deceased not tumor specific,no,
+PrimaryTumor_HE_461,PrimaryTumor_HE_461,2751,living,yes,1919.0
+PrimaryTumor_HE_462,PrimaryTumor_HE_462,2169,living,no,
+PrimaryTumor_HE_463,PrimaryTumor_HE_463,939,deceased not tumor specific,no,
+PrimaryTumor_HE_464,PrimaryTumor_HE_464,2147,deceased tumor specific,yes,129.0
+PrimaryTumor_HE_465,PrimaryTumor_HE_465,1955,living,no,
+PrimaryTumor_HE_466,PrimaryTumor_HE_466,692,deceased tumor specific,yes,224.0
+PrimaryTumor_HE_467,PrimaryTumor_HE_467,2260,living,no,
+PrimaryTumor_HE_468,PrimaryTumor_HE_468,1873,living,yes,1807.0
+PrimaryTumor_HE_469,PrimaryTumor_HE_469,1496,living,no,
+PrimaryTumor_HE_470,PrimaryTumor_HE_470,2996,living,yes,1279.0
+PrimaryTumor_HE_471,PrimaryTumor_HE_471,98,living,no,
+PrimaryTumor_HE_472,PrimaryTumor_HE_472,1771,living,no,
+PrimaryTumor_HE_473,PrimaryTumor_HE_473,242,living,no,
+PrimaryTumor_HE_474,PrimaryTumor_HE_474,155,living,no,
+PrimaryTumor_HE_475,PrimaryTumor_HE_475,3275,living,no,
+PrimaryTumor_HE_476,PrimaryTumor_HE_476,1092,living,no,
+PrimaryTumor_HE_477,PrimaryTumor_HE_477,1440,living,yes,926.0
+PrimaryTumor_HE_478,PrimaryTumor_HE_478,1673,living,no,
+PrimaryTumor_HE_479,PrimaryTumor_HE_479,2040,living,no,
+PrimaryTumor_HE_480,PrimaryTumor_HE_480,1011,living,no,
+PrimaryTumor_HE_481,PrimaryTumor_HE_481,154,living,no,
+PrimaryTumor_HE_482,PrimaryTumor_HE_482,3222,living,no,
+PrimaryTumor_HE_483,PrimaryTumor_HE_483,4118,living,no,
+PrimaryTumor_HE_484,PrimaryTumor_HE_484,546,living,yes,427.0
+PrimaryTumor_HE_485,PrimaryTumor_HE_485,2512,living,no,
+PrimaryTumor_HE_486,PrimaryTumor_HE_486,4500,deceased not tumor specific,no,
+PrimaryTumor_HE_487,PrimaryTumor_HE_487,1045,living,no,
+PrimaryTumor_HE_488,PrimaryTumor_HE_488,2584,living,no,
+PrimaryTumor_HE_489,PrimaryTumor_HE_489,209,living,no,
+PrimaryTumor_HE_489,PrimaryTumor_HE_489_a,209,living,no,
+PrimaryTumor_HE_490,PrimaryTumor_HE_490,1494,living,no,
+PrimaryTumor_HE_491,PrimaryTumor_HE_491,1129,living,no,
+PrimaryTumor_HE_492,PrimaryTumor_HE_492,3124,living,no,
+PrimaryTumor_HE_493,PrimaryTumor_HE_493,1843,living,no,
+PrimaryTumor_HE_494,PrimaryTumor_HE_494,2312,living,no,
+PrimaryTumor_HE_495,PrimaryTumor_HE_495,1059,living,no,
+PrimaryTumor_HE_496,PrimaryTumor_HE_496,1106,living,no,
+PrimaryTumor_HE_498,PrimaryTumor_HE_498,1347,living,no,
+PrimaryTumor_HE_499,PrimaryTumor_HE_499,775,living,no,
+PrimaryTumor_HE_500,PrimaryTumor_HE_500,2502,living,no,
+PrimaryTumor_HE_501,PrimaryTumor_HE_501,48,deceased not tumor specific,no,
+PrimaryTumor_HE_502,PrimaryTumor_HE_502,3077,living,yes,518.0
+PrimaryTumor_HE_503,PrimaryTumor_HE_503,1941,living,no,
+PrimaryTumor_HE_504,PrimaryTumor_HE_504,1581,living,no,
+PrimaryTumor_HE_505,PrimaryTumor_HE_505,334,living,no,
+PrimaryTumor_HE_506,PrimaryTumor_HE_506,1711,deceased tumor specific,yes,947.0
+PrimaryTumor_HE_507,PrimaryTumor_HE_507,175,deceased not tumor specific,yes,58.0
+PrimaryTumor_HE_509,PrimaryTumor_HE_509,3337,living,no,
+PrimaryTumor_HE_510,PrimaryTumor_HE_510,454,deceased tumor specific,yes,356.0
+PrimaryTumor_HE_511,PrimaryTumor_HE_511,982,living,no,
+PrimaryTumor_HE_512,PrimaryTumor_HE_512,103,deceased tumor specific,no,
+PrimaryTumor_HE_513,PrimaryTumor_HE_513,1022,deceased not tumor specific,no,
+PrimaryTumor_HE_514,PrimaryTumor_HE_514,595,living,no,
+PrimaryTumor_HE_516,PrimaryTumor_HE_516,207,deceased not tumor specific,no,
+PrimaryTumor_HE_517,PrimaryTumor_HE_517,282,living,no,
+PrimaryTumor_HE_518,PrimaryTumor_HE_518,99,living,no,
+PrimaryTumor_HE_519,PrimaryTumor_HE_519,1357,living,no,
+PrimaryTumor_HE_520,PrimaryTumor_HE_520,823,living,yes,285.0
+PrimaryTumor_HE_521,PrimaryTumor_HE_521,133,deceased tumor specific,yes,49.0
+PrimaryTumor_HE_522,PrimaryTumor_HE_522,247,living,no,
+PrimaryTumor_HE_523,PrimaryTumor_HE_523,1358,living,no,
+PrimaryTumor_HE_524,PrimaryTumor_HE_524,1090,living,no,
+PrimaryTumor_HE_525,PrimaryTumor_HE_525,1675,living,no,
+PrimaryTumor_HE_527,PrimaryTumor_HE_527,3728,deceased not tumor specific,no,
+PrimaryTumor_HE_528,PrimaryTumor_HE_528,3178,living,no,
+PrimaryTumor_HE_529,PrimaryTumor_HE_529,1003,living,no,
+PrimaryTumor_HE_530,PrimaryTumor_HE_530,1453,living,yes,460.0
+PrimaryTumor_HE_531,PrimaryTumor_HE_531,2578,living,no,
+PrimaryTumor_HE_532,PrimaryTumor_HE_532,3232,living,no,
+PrimaryTumor_HE_533,PrimaryTumor_HE_533,89,deceased not tumor specific,no,
+PrimaryTumor_HE_534,PrimaryTumor_HE_534,2455,living,no,
+PrimaryTumor_HE_536,PrimaryTumor_HE_536,1133,living,no,
+PrimaryTumor_HE_538,PrimaryTumor_HE_538,141,living,yes,138.0
+PrimaryTumor_HE_539,PrimaryTumor_HE_539,661,living,yes,132.0
+PrimaryTumor_HE_540,PrimaryTumor_HE_540,1409,living,no,
+PrimaryTumor_HE_542,PrimaryTumor_HE_542,1546,deceased not tumor specific,no,
+PrimaryTumor_HE_543,PrimaryTumor_HE_543,2055,living,no,
+PrimaryTumor_HE_544,PrimaryTumor_HE_544,47,deceased not tumor specific,no,
+PrimaryTumor_HE_545,PrimaryTumor_HE_545,2400,living,no,
+PrimaryTumor_HE_546,PrimaryTumor_HE_546,441,living,no,
+PrimaryTumor_HE_547,PrimaryTumor_HE_547,2540,living,no,
+PrimaryTumor_HE_548,PrimaryTumor_HE_548,770,living,no,
+PrimaryTumor_HE_549,PrimaryTumor_HE_549,370,living,yes,370.0
+PrimaryTumor_HE_550,PrimaryTumor_HE_550,104,deceased not tumor specific,no,
+PrimaryTumor_HE_551,PrimaryTumor_HE_551,1543,living,yes,1192.0
+PrimaryTumor_HE_552,PrimaryTumor_HE_552,4515,living,no,
+PrimaryTumor_HE_553,PrimaryTumor_HE_553,2326,living,yes,2200.0
+PrimaryTumor_HE_554,PrimaryTumor_HE_554,256,deceased tumor specific,yes,189.0
+PrimaryTumor_HE_555,PrimaryTumor_HE_555,642,deceased tumor specific,yes,100.0
+PrimaryTumor_HE_556,PrimaryTumor_HE_556,1447,living,no,
+PrimaryTumor_HE_557,PrimaryTumor_HE_557,1329,living,no,
+PrimaryTumor_HE_558,PrimaryTumor_HE_558,926,living,no,
+PrimaryTumor_HE_559,PrimaryTumor_HE_559,965,living,no,
+PrimaryTumor_HE_560,PrimaryTumor_HE_560,3549,living,no,
+PrimaryTumor_HE_561,PrimaryTumor_HE_561,44,living,no,
+PrimaryTumor_HE_562,PrimaryTumor_HE_562,776,living,no,
+PrimaryTumor_HE_563,PrimaryTumor_HE_563,1885,living,no,
+PrimaryTumor_HE_564,PrimaryTumor_HE_564,1363,living,no,
+PrimaryTumor_HE_565,PrimaryTumor_HE_565,1798,living,no,
+PrimaryTumor_HE_566,PrimaryTumor_HE_566,405,living,no,
+PrimaryTumor_HE_567,PrimaryTumor_HE_567,2876,living,no,
+PrimaryTumor_HE_568,PrimaryTumor_HE_568,2786,living,no,
+PrimaryTumor_HE_569,PrimaryTumor_HE_569,75,living,no,
+PrimaryTumor_HE_570,PrimaryTumor_HE_570,433,living,yes,412.0
+PrimaryTumor_HE_572,PrimaryTumor_HE_572,2771,living,yes,1069.0
+PrimaryTumor_HE_573,PrimaryTumor_HE_573,955,deceased tumor specific,yes,892.0
+PrimaryTumor_HE_574,PrimaryTumor_HE_574,1299,living,no,
+PrimaryTumor_HE_575,PrimaryTumor_HE_575,3486,living,no,
+PrimaryTumor_HE_576,PrimaryTumor_HE_576,983,deceased not tumor specific,no,
+PrimaryTumor_HE_577,PrimaryTumor_HE_577,3031,living,no,
+PrimaryTumor_HE_578,PrimaryTumor_HE_578,914,living,no,
+PrimaryTumor_HE_579,PrimaryTumor_HE_579,694,deceased tumor specific,yes,510.0
+PrimaryTumor_HE_580,PrimaryTumor_HE_580,1735,living,no,
+PrimaryTumor_HE_581,PrimaryTumor_HE_581,1771,living,no,
+PrimaryTumor_HE_582,PrimaryTumor_HE_582,2569,living,no,
+PrimaryTumor_HE_583,PrimaryTumor_HE_583,342,living,yes,68.0
+PrimaryTumor_HE_584,PrimaryTumor_HE_584,1189,deceased not tumor specific,no,
+PrimaryTumor_HE_585,PrimaryTumor_HE_585,1311,living,no,
+PrimaryTumor_HE_587,PrimaryTumor_HE_587,530,living,no,
+PrimaryTumor_HE_588,PrimaryTumor_HE_588,153,living,yes,153.0
+PrimaryTumor_HE_589,PrimaryTumor_HE_589,1474,deceased not tumor specific,no,
+PrimaryTumor_HE_589,PrimaryTumor_HE_589_a,1474,deceased not tumor specific,no,
+PrimaryTumor_HE_590,PrimaryTumor_HE_590,3973,living,no,
+PrimaryTumor_HE_591,PrimaryTumor_HE_591,1159,living,yes,230.0
+PrimaryTumor_HE_592,PrimaryTumor_HE_592,54,living,no,
+PrimaryTumor_HE_593,PrimaryTumor_HE_593,1069,living,no,
+PrimaryTumor_HE_594,PrimaryTumor_HE_594,1419,living,yes,1123.0
+PrimaryTumor_HE_595,PrimaryTumor_HE_595,644,living,no,
+PrimaryTumor_HE_597,PrimaryTumor_HE_597,222,living,no,
+PrimaryTumor_HE_599,PrimaryTumor_HE_599,2693,living,no,
+PrimaryTumor_HE_600,PrimaryTumor_HE_600,3198,living,no,
+PrimaryTumor_HE_601,PrimaryTumor_HE_601,3017,living,no,
+PrimaryTumor_HE_602,PrimaryTumor_HE_602,640,living,yes,254.0
+PrimaryTumor_HE_603,PrimaryTumor_HE_603,1848,deceased not tumor specific,no,
+PrimaryTumor_HE_604,PrimaryTumor_HE_604,584,deceased tumor specific,yes,398.0
+PrimaryTumor_HE_605,PrimaryTumor_HE_605,1271,living,no,
+PrimaryTumor_HE_606,PrimaryTumor_HE_606,1359,deceased not tumor specific,no,
+PrimaryTumor_HE_607,PrimaryTumor_HE_607,1522,deceased tumor specific,yes,1083.0
+PrimaryTumor_HE_608,PrimaryTumor_HE_608,2379,living,no,
+PrimaryTumor_HE_609,PrimaryTumor_HE_609,3571,living,no,
+PrimaryTumor_HE_610,PrimaryTumor_HE_610,1498,living,no,
+PrimaryTumor_HE_611,PrimaryTumor_HE_611,2327,living,no,
+PrimaryTumor_HE_612,PrimaryTumor_HE_612,222,living,no,
+PrimaryTumor_HE_613,PrimaryTumor_HE_613,1625,deceased not tumor specific,no,
+PrimaryTumor_HE_614,PrimaryTumor_HE_614,2131,deceased not tumor specific,yes,1021.0
+PrimaryTumor_HE_615,PrimaryTumor_HE_615,3352,living,no,
+PrimaryTumor_HE_616,PrimaryTumor_HE_616,577,deceased tumor specific,yes,304.0
+PrimaryTumor_HE_617,PrimaryTumor_HE_617,1436,living,yes,1190.0
+PrimaryTumor_HE_618,PrimaryTumor_HE_618,2436,living,no,
+PrimaryTumor_HE_619,PrimaryTumor_HE_619,1775,living,no,
+PrimaryTumor_HE_620,PrimaryTumor_HE_620,460,living,no,
+PrimaryTumor_HE_621,PrimaryTumor_HE_621,1023,living,yes,476.0
+PrimaryTumor_HE_622,PrimaryTumor_HE_622,3716,living,yes,2056.0
+PrimaryTumor_HE_623,PrimaryTumor_HE_623,2861,living,no,
+PrimaryTumor_HE_624,PrimaryTumor_HE_624,2640,living,no,
+PrimaryTumor_HE_625,PrimaryTumor_HE_625,374,deceased tumor specific,yes,344.0
+PrimaryTumor_HE_626,PrimaryTumor_HE_626,21,living,no,
+PrimaryTumor_HE_627,PrimaryTumor_HE_627,2463,living,no,
+PrimaryTumor_HE_628,PrimaryTumor_HE_628,3302,living,no,
+PrimaryTumor_HE_630,PrimaryTumor_HE_630,3073,living,yes,79.0
+PrimaryTumor_HE_631,PrimaryTumor_HE_631,707,deceased tumor specific,yes,259.0
+PrimaryTumor_HE_632,PrimaryTumor_HE_632,2163,living,yes,1967.0
+PrimaryTumor_HE_634,PrimaryTumor_HE_634,2569,living,no,
+PrimaryTumor_HE_635,PrimaryTumor_HE_635,1383,living,yes,160.0
+PrimaryTumor_HE_636,PrimaryTumor_HE_636,3202,living,no,
+PrimaryTumor_HE_637,PrimaryTumor_HE_637,175,living,no,
+PrimaryTumor_HE_638,PrimaryTumor_HE_638,2901,living,no,
+PrimaryTumor_HE_639,PrimaryTumor_HE_639,801,living,no,
+PrimaryTumor_HE_640,PrimaryTumor_HE_640,23,living,no,
+PrimaryTumor_HE_641,PrimaryTumor_HE_641,2913,living,no,
+PrimaryTumor_HE_642,PrimaryTumor_HE_642,1203,living,no,
+PrimaryTumor_HE_643,PrimaryTumor_HE_643,540,deceased,no,
+PrimaryTumor_HE_644,PrimaryTumor_HE_644,1145,living,no,
+PrimaryTumor_HE_645,PrimaryTumor_HE_645,379,deceased tumor specific,yes,287.0
+PrimaryTumor_HE_646,PrimaryTumor_HE_646,3517,living,no,
+PrimaryTumor_HE_647,PrimaryTumor_HE_647,1747,living,no,
+PrimaryTumor_HE_648,PrimaryTumor_HE_648,511,living,yes,247.0
+PrimaryTumor_HE_649,PrimaryTumor_HE_649,4221,deceased not tumor specific,no,
+PrimaryTumor_HE_650,PrimaryTumor_HE_650,1617,deceased not tumor specific,no,
+PrimaryTumor_HE_651,PrimaryTumor_HE_651,323,living,no,
+PrimaryTumor_HE_652,PrimaryTumor_HE_652,3169,living,no,
+PrimaryTumor_HE_653,PrimaryTumor_HE_653,2959,deceased tumor specific,yes,1345.0
+PrimaryTumor_HE_654,PrimaryTumor_HE_654,1954,deceased not tumor specific,no,
+PrimaryTumor_HE_655,PrimaryTumor_HE_655,1064,living,no,
+PrimaryTumor_HE_656,PrimaryTumor_HE_656,651,deceased not tumor specific,no,
+PrimaryTumor_HE_657,PrimaryTumor_HE_657,2366,living,no,
+PrimaryTumor_HE_658,PrimaryTumor_HE_658,1706,living,no,
+PrimaryTumor_HE_660,PrimaryTumor_HE_660,2605,living,no,
+PrimaryTumor_HE_661,PrimaryTumor_HE_661,3600,living,no,
+PrimaryTumor_HE_662,PrimaryTumor_HE_662,857,deceased,yes,95.0
+PrimaryTumor_HE_663,PrimaryTumor_HE_663,1803,living,no,
+PrimaryTumor_HE_664,PrimaryTumor_HE_664,142,living,no,
+PrimaryTumor_HE_665,PrimaryTumor_HE_665,2474,deceased not tumor specific,no,
+PrimaryTumor_HE_666,PrimaryTumor_HE_666,888,living,no,
+PrimaryTumor_HE_667,PrimaryTumor_HE_667,728,deceased tumor specific,no,
+PrimaryTumor_HE_668,PrimaryTumor_HE_668,1142,deceased not tumor specific,no,
+PrimaryTumor_HE_669,PrimaryTumor_HE_669,2383,living,no,
+PrimaryTumor_HE_670,PrimaryTumor_HE_670,1805,living,no,
+PrimaryTumor_HE_671,PrimaryTumor_HE_671,890,deceased tumor specific,yes,285.0
+PrimaryTumor_HE_672,PrimaryTumor_HE_672,866,deceased tumor specific,no,
+PrimaryTumor_HE_673,PrimaryTumor_HE_673,3295,deceased not tumor specific,no,
+PrimaryTumor_HE_674,PrimaryTumor_HE_674,9,living,no,
+PrimaryTumor_HE_675,PrimaryTumor_HE_675,1862,deceased not tumor specific,no,
+PrimaryTumor_HE_676,PrimaryTumor_HE_676,238,living,no,
+PrimaryTumor_HE_677,PrimaryTumor_HE_677,575,living,no,
+PrimaryTumor_HE_678,PrimaryTumor_HE_678,1432,living,no,
+PrimaryTumor_HE_679,PrimaryTumor_HE_679,664,living,yes,434.0
+PrimaryTumor_HE_680,PrimaryTumor_HE_680,408,deceased tumor specific,yes,345.0
+PrimaryTumor_HE_681,PrimaryTumor_HE_681,733,living,yes,300.0
+PrimaryTumor_HE_682,PrimaryTumor_HE_682,276,deceased not tumor specific,no,
+PrimaryTumor_HE_683,PrimaryTumor_HE_683,709,living,no,
+PrimaryTumor_HE_684,PrimaryTumor_HE_684,1651,living,no,
+PrimaryTumor_HE_685,PrimaryTumor_HE_685,706,living,no,
+PrimaryTumor_HE_687,PrimaryTumor_HE_687,1540,living,no,
+PrimaryTumor_HE_688,PrimaryTumor_HE_688,811,living,no,
+PrimaryTumor_HE_689,PrimaryTumor_HE_689,2625,living,no,
+PrimaryTumor_HE_690,PrimaryTumor_HE_690,1400,living,no,
+PrimaryTumor_HE_691,PrimaryTumor_HE_691,1669,deceased tumor specific,yes,1169.0
+PrimaryTumor_HE_692,PrimaryTumor_HE_692,25,living,no,
+PrimaryTumor_HE_693,PrimaryTumor_HE_693,3085,deceased tumor specific,yes,3002.0
+PrimaryTumor_HE_694,PrimaryTumor_HE_694,124,deceased not tumor specific,yes,74.0
+PrimaryTumor_HE_695,PrimaryTumor_HE_695,1357,living,no,
+PrimaryTumor_HE_696,PrimaryTumor_HE_696,763,living,no,
+PrimaryTumor_HE_697,PrimaryTumor_HE_697,374,living,no,
+PrimaryTumor_HE_698,PrimaryTumor_HE_698,1834,living,no,
+PrimaryTumor_HE_699,PrimaryTumor_HE_699,203,living,no,
+PrimaryTumor_HE_700,PrimaryTumor_HE_700,1492,deceased tumor specific,yes,398.0
+PrimaryTumor_HE_701,PrimaryTumor_HE_701,1582,living,yes,1430.0
+PrimaryTumor_HE_702,PrimaryTumor_HE_702,2282,living,yes,269.0
+PrimaryTumor_HE_703,PrimaryTumor_HE_703,823,living,yes,659.0
+PrimaryTumor_HE_704,PrimaryTumor_HE_704,1626,deceased tumor specific,yes,311.0
+PrimaryTumor_HE_705,PrimaryTumor_HE_705,2106,living,no,
+PrimaryTumor_HE_706,PrimaryTumor_HE_706,1517,living,no,
+PrimaryTumor_HE_707,PrimaryTumor_HE_707,1784,living,no,
+PrimaryTumor_HE_708,PrimaryTumor_HE_708,368,deceased not tumor specific,no,
+PrimaryTumor_HE_709,PrimaryTumor_HE_709,424,deceased tumor specific,yes,199.0
+PrimaryTumor_HE_711,PrimaryTumor_HE_711,1914,living,no,
+PrimaryTumor_HE_712,PrimaryTumor_HE_712,2189,living,no,
+PrimaryTumor_HE_713,PrimaryTumor_HE_713,2107,living,yes,1372.0
+PrimaryTumor_HE_714,PrimaryTumor_HE_714,1087,deceased tumor specific,yes,778.0
+PrimaryTumor_HE_715,PrimaryTumor_HE_715,1031,living,no,
+PrimaryTumor_HE_716,PrimaryTumor_HE_716,2332,living,no,
+PrimaryTumor_HE_717,PrimaryTumor_HE_717,373,deceased not tumor specific,no,
+PrimaryTumor_HE_718,PrimaryTumor_HE_718,728,living,no,
+PrimaryTumor_HE_719,PrimaryTumor_HE_719,1363,living,yes,91.0
+PrimaryTumor_HE_720,PrimaryTumor_HE_720,1237,deceased,no,
+PrimaryTumor_HE_721,PrimaryTumor_HE_721,1330,deceased,yes,852.0
+PrimaryTumor_HE_722,PrimaryTumor_HE_722,605,deceased tumor specific,yes,590.0
+PrimaryTumor_HE_723,PrimaryTumor_HE_723,751,living,no,
+PrimaryTumor_HE_724,PrimaryTumor_HE_724,1276,deceased tumor specific,no,
+PrimaryTumor_HE_725,PrimaryTumor_HE_725,997,living,yes,250.0
+PrimaryTumor_HE_726,PrimaryTumor_HE_726,1988,living,no,
+PrimaryTumor_HE_727,PrimaryTumor_HE_727,788,deceased tumor specific,yes,447.0
+PrimaryTumor_HE_728,PrimaryTumor_HE_728,206,deceased not tumor specific,no,
+PrimaryTumor_HE_730,PrimaryTumor_HE_730,1091,living,no,
+PrimaryTumor_HE_731,PrimaryTumor_HE_731,908,living,yes,362.0
+PrimaryTumor_HE_732,PrimaryTumor_HE_732,2660,deceased not tumor specific,no,
+PrimaryTumor_HE_732,PrimaryTumor_HE_732_a,2660,deceased not tumor specific,no,
+PrimaryTumor_HE_733,PrimaryTumor_HE_733,5163,living,no,
+PrimaryTumor_HE_734,PrimaryTumor_HE_734,1576,living,yes,548.0
+PrimaryTumor_HE_735,PrimaryTumor_HE_735,372,deceased tumor specific,yes,356.0
+PrimaryTumor_HE_736,PrimaryTumor_HE_736,1667,living,yes,187.0
+PrimaryTumor_HE_737,PrimaryTumor_HE_737,716,living,no,
+PrimaryTumor_HE_738,PrimaryTumor_HE_738,1967,living,no,
+PrimaryTumor_HE_739,PrimaryTumor_HE_739,463,living,no,
+PrimaryTumor_HE_740,PrimaryTumor_HE_740,537,deceased tumor specific,yes,252.0
+PrimaryTumor_HE_741,PrimaryTumor_HE_741,167,deceased not tumor specific,no,
+PrimaryTumor_HE_743,PrimaryTumor_HE_743,3072,deceased not tumor specific,no,
+PrimaryTumor_HE_744,PrimaryTumor_HE_744,431,living,no,
+PrimaryTumor_HE_745,PrimaryTumor_HE_745,1855,living,no,
+PrimaryTumor_HE_746,PrimaryTumor_HE_746,1646,living,no,
+PrimaryTumor_HE_747,PrimaryTumor_HE_747,1654,living,yes,579.0
+PrimaryTumor_HE_749,PrimaryTumor_HE_749,38,living,no,
+PrimaryTumor_HE_750,PrimaryTumor_HE_750,758,living,no,
+PrimaryTumor_HE_751,PrimaryTumor_HE_751,2270,deceased not tumor specific,no,
+PrimaryTumor_HE_752,PrimaryTumor_HE_752,2848,living,no,
+PrimaryTumor_HE_753,PrimaryTumor_HE_753,920,deceased not tumor specific,no,
+PrimaryTumor_HE_755,PrimaryTumor_HE_755,511,living,no,
+PrimaryTumor_HE_756,PrimaryTumor_HE_756,336,living,no,
+PrimaryTumor_HE_757,PrimaryTumor_HE_757,292,living,no,
+PrimaryTumor_HE_758,PrimaryTumor_HE_758,3253,living,no,
+PrimaryTumor_HE_760,PrimaryTumor_HE_760,484,deceased,yes,132.0
+PrimaryTumor_HE_761,PrimaryTumor_HE_761,1082,deceased tumor specific,yes,606.0
+PrimaryTumor_HE_762,PrimaryTumor_HE_762,1644,living,no,
+PrimaryTumor_HE_763,PrimaryTumor_HE_763,1689,living,no,

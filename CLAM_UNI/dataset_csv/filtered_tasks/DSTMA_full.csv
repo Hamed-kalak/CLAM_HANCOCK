@@ -1,0 +1,731 @@
+case_id,patient_id,days_to_last_information,survival_status_with_cause,recurrence,days_to_recurrence
+DSTMA_001,DSTMA_001,2258,living,no,
+DSTMA_002,DSTMA_002,1753,living,yes,357.0
+DSTMA_003,DSTMA_003,851,living,no,
+DSTMA_004,DSTMA_004,2996,living,no,
+DSTMA_005,DSTMA_005,2819,deceased not tumor specific,yes,1202.0
+DSTMA_006,DSTMA_006,991,living,no,
+DSTMA_007,DSTMA_007,1149,living,no,
+DSTMA_008,DSTMA_008,69,living,no,
+DSTMA_009,DSTMA_009,1617,living,no,
+DSTMA_010,DSTMA_010,1462,living,no,
+DSTMA_011,DSTMA_011,1785,living,no,
+DSTMA_012,DSTMA_012,2395,deceased not tumor specific,yes,974.0
+DSTMA_014,DSTMA_014,1843,living,no,
+DSTMA_015,DSTMA_015,526,living,yes,374.0
+DSTMA_016,DSTMA_016,336,deceased tumor specific,yes,238.0
+DSTMA_017,DSTMA_017,487,living,yes,459.0
+DSTMA_018,DSTMA_018,2794,living,no,
+DSTMA_019,DSTMA_019,165,deceased not tumor specific,no,
+DSTMA_020,DSTMA_020,2610,living,no,
+DSTMA_021,DSTMA_021,830,living,yes,817.0
+DSTMA_022,DSTMA_022,4670,living,no,
+DSTMA_023,DSTMA_023,204,living,no,
+DSTMA_024,DSTMA_024,1552,living,no,
+DSTMA_025,DSTMA_025,3284,living,no,
+DSTMA_026,DSTMA_026,2442,living,no,
+DSTMA_028,DSTMA_028,2688,living,yes,650.0
+DSTMA_029,DSTMA_029,733,deceased not tumor specific,no,
+DSTMA_030,DSTMA_030,2490,living,no,
+DSTMA_031,DSTMA_031,4032,living,no,
+DSTMA_032,DSTMA_032,1679,living,no,
+DSTMA_033,DSTMA_033,3023,living,no,
+DSTMA_034,DSTMA_034,1924,living,no,
+DSTMA_035,DSTMA_035,168,living,no,
+DSTMA_036,DSTMA_036,2337,living,yes,419.0
+DSTMA_037,DSTMA_037,539,living,no,
+DSTMA_038,DSTMA_038,2932,living,no,
+DSTMA_039,DSTMA_039,471,deceased tumor specific,yes,471.0
+DSTMA_040,DSTMA_040,556,deceased tumor specific,yes,89.0
+DSTMA_041,DSTMA_041,1454,living,no,
+DSTMA_042,DSTMA_042,1821,living,no,
+DSTMA_043,DSTMA_043,2309,living,yes,281.0
+DSTMA_045,DSTMA_045,3187,living,no,
+DSTMA_046,DSTMA_046,124,deceased not tumor specific,no,
+DSTMA_047,DSTMA_047,4228,living,no,
+DSTMA_048,DSTMA_048,255,deceased tumor specific,no,
+DSTMA_049,DSTMA_049,1420,living,yes,1314.0
+DSTMA_050,DSTMA_050,1782,deceased tumor specific,yes,1382.0
+DSTMA_051,DSTMA_051,1476,living,no,
+DSTMA_052,DSTMA_052,844,deceased not tumor specific,no,
+DSTMA_053,DSTMA_053,4260,living,no,
+DSTMA_055,DSTMA_055,1185,living,no,
+DSTMA_056,DSTMA_056,375,deceased tumor specific,yes,263.0
+DSTMA_057,DSTMA_057,1854,living,no,
+DSTMA_058,DSTMA_058,153,deceased tumor specific,no,
+DSTMA_059,DSTMA_059,4006,living,no,
+DSTMA_060,DSTMA_060,743,living,no,
+DSTMA_061,DSTMA_061,161,deceased tumor specific,no,
+DSTMA_062,DSTMA_062,537,living,no,
+DSTMA_063,DSTMA_063,1258,living,no,
+DSTMA_064,DSTMA_064,1087,living,no,
+DSTMA_065,DSTMA_065,1203,living,yes,923.0
+DSTMA_066,DSTMA_066,358,deceased tumor specific,no,
+DSTMA_067,DSTMA_067,972,deceased not tumor specific,no,
+DSTMA_068,DSTMA_068,68,living,no,
+DSTMA_069,DSTMA_069,59,living,no,
+DSTMA_070,DSTMA_070,536,living,no,
+DSTMA_071,DSTMA_071,718,deceased tumor specific,yes,127.0
+DSTMA_072,DSTMA_072,2511,living,no,
+DSTMA_073,DSTMA_073,3232,living,no,
+DSTMA_074,DSTMA_074,2219,living,no,
+DSTMA_075,DSTMA_075,2442,living,no,
+DSTMA_076,DSTMA_076,1843,living,no,
+DSTMA_077,DSTMA_077,2575,living,no,
+DSTMA_078,DSTMA_078,400,living,no,
+DSTMA_079,DSTMA_079,481,living,no,
+DSTMA_080,DSTMA_080,680,living,no,
+DSTMA_081,DSTMA_081,980,deceased tumor specific,no,
+DSTMA_082,DSTMA_082,1059,living,no,
+DSTMA_083,DSTMA_083,979,living,no,
+DSTMA_084,DSTMA_084,350,living,no,
+DSTMA_085,DSTMA_085,142,living,no,
+DSTMA_086,DSTMA_086,2079,living,no,
+DSTMA_087,DSTMA_087,798,living,no,
+DSTMA_088,DSTMA_088,105,deceased tumor specific,no,
+DSTMA_090,DSTMA_090,1018,living,no,
+DSTMA_091,DSTMA_091,901,living,no,
+DSTMA_092,DSTMA_092,1209,living,no,
+DSTMA_093,DSTMA_093,3722,living,no,
+DSTMA_094,DSTMA_094,719,living,no,
+DSTMA_095,DSTMA_095,4233,living,no,
+DSTMA_097,DSTMA_097,131,living,no,
+DSTMA_098,DSTMA_098,2257,deceased not tumor specific,no,
+DSTMA_099,DSTMA_099,709,living,yes,468.0
+DSTMA_100,DSTMA_100,847,living,no,
+DSTMA_101,DSTMA_101,604,deceased tumor specific,yes,420.0
+DSTMA_102,DSTMA_102,1830,living,yes,999.0
+DSTMA_103,DSTMA_103,752,deceased tumor specific,no,
+DSTMA_104,DSTMA_104,677,deceased tumor specific,yes,243.0
+DSTMA_105,DSTMA_105,2702,living,yes,147.0
+DSTMA_106,DSTMA_106,3133,deceased not tumor specific,no,
+DSTMA_107,DSTMA_107,2176,living,no,
+DSTMA_108,DSTMA_108,1400,living,no,
+DSTMA_109,DSTMA_109,1870,living,no,
+DSTMA_110,DSTMA_110,57,living,no,
+DSTMA_111,DSTMA_111,1298,deceased not tumor specific,no,
+DSTMA_112,DSTMA_112,3287,living,no,
+DSTMA_113,DSTMA_113,102,deceased tumor specific,no,
+DSTMA_114,DSTMA_114,713,deceased not tumor specific,no,
+DSTMA_115,DSTMA_115,2267,living,no,
+DSTMA_116,DSTMA_116,584,living,no,
+DSTMA_117,DSTMA_117,73,living,no,
+DSTMA_118,DSTMA_118,64,deceased tumor specific,no,
+DSTMA_119,DSTMA_119,2984,living,no,
+DSTMA_120,DSTMA_120,1293,living,no,
+DSTMA_121,DSTMA_121,3204,living,no,
+DSTMA_122,DSTMA_122,2829,deceased,no,
+DSTMA_123,DSTMA_123,699,living,no,
+DSTMA_124,DSTMA_124,1463,living,no,
+DSTMA_125,DSTMA_125,2755,deceased not tumor specific,no,
+DSTMA_126,DSTMA_126,2264,deceased not tumor specific,no,
+DSTMA_127,DSTMA_127,2396,living,no,
+DSTMA_128,DSTMA_128,2970,living,yes,772.0
+DSTMA_130,DSTMA_130,1945,living,no,
+DSTMA_131,DSTMA_131,156,living,no,
+DSTMA_132,DSTMA_132,744,deceased not tumor specific,no,
+DSTMA_133,DSTMA_133,549,deceased tumor specific,yes,115.0
+DSTMA_134,DSTMA_134,639,living,no,
+DSTMA_135,DSTMA_135,1408,living,no,
+DSTMA_136,DSTMA_136,1205,deceased not tumor specific,no,
+DSTMA_137,DSTMA_137,1183,deceased not tumor specific,no,
+DSTMA_138,DSTMA_138,2186,living,no,
+DSTMA_139,DSTMA_139,3470,deceased not tumor specific,no,
+DSTMA_140,DSTMA_140,1931,living,no,
+DSTMA_141,DSTMA_141,3012,deceased not tumor specific,no,
+DSTMA_142,DSTMA_142,2739,living,no,
+DSTMA_144,DSTMA_144,2961,deceased not tumor specific,no,
+DSTMA_145,DSTMA_145,1181,living,no,
+DSTMA_146,DSTMA_146,1484,living,yes,254.0
+DSTMA_147,DSTMA_147,191,deceased tumor specific,no,
+DSTMA_148,DSTMA_148,115,living,no,
+DSTMA_149,DSTMA_149,1806,living,no,
+DSTMA_150,DSTMA_150,240,living,no,
+DSTMA_151,DSTMA_151,87,living,no,
+DSTMA_152,DSTMA_152,1526,living,yes,1519.0
+DSTMA_153,DSTMA_153,1146,living,yes,196.0
+DSTMA_154,DSTMA_154,449,deceased tumor specific,no,
+DSTMA_155,DSTMA_155,1484,living,no,
+DSTMA_156,DSTMA_156,636,living,no,
+DSTMA_157,DSTMA_157,411,living,no,
+DSTMA_158,DSTMA_158,954,living,yes,308.0
+DSTMA_159,DSTMA_159,1760,living,no,
+DSTMA_160,DSTMA_160,4234,living,no,
+DSTMA_161,DSTMA_161,1107,deceased not tumor specific,no,
+DSTMA_162,DSTMA_162,1896,living,no,
+DSTMA_163,DSTMA_163,966,living,no,
+DSTMA_164,DSTMA_164,148,living,no,
+DSTMA_165,DSTMA_165,3766,deceased tumor specific,yes,3522.0
+DSTMA_166,DSTMA_166,1022,living,no,
+DSTMA_167,DSTMA_167,757,deceased not tumor specific,no,
+DSTMA_168,DSTMA_168,995,living,no,
+DSTMA_169,DSTMA_169,35,living,no,
+DSTMA_170,DSTMA_170,398,deceased tumor specific,yes,301.0
+DSTMA_171,DSTMA_171,1055,living,yes,636.0
+DSTMA_172,DSTMA_172,1504,living,no,
+DSTMA_173,DSTMA_173,2453,deceased tumor specific,no,
+DSTMA_174,DSTMA_174,157,living,no,
+DSTMA_175,DSTMA_175,2814,deceased not tumor specific,no,
+DSTMA_176,DSTMA_176,706,deceased tumor specific,yes,412.0
+DSTMA_177,DSTMA_177,380,living,no,
+DSTMA_178,DSTMA_178,222,living,no,
+DSTMA_179,DSTMA_179,2275,living,yes,2275.0
+DSTMA_180,DSTMA_180,419,living,no,
+DSTMA_181,DSTMA_181,612,deceased tumor specific,yes,133.0
+DSTMA_182,DSTMA_182,2442,living,no,
+DSTMA_183,DSTMA_183,164,living,no,
+DSTMA_184,DSTMA_184,1360,living,no,
+DSTMA_185,DSTMA_185,674,living,no,
+DSTMA_186,DSTMA_186,1636,living,no,
+DSTMA_187,DSTMA_187,1520,living,no,
+DSTMA_188,DSTMA_188,318,deceased tumor specific,yes,196.0
+DSTMA_189,DSTMA_189,1896,living,no,
+DSTMA_190,DSTMA_190,3038,deceased not tumor specific,no,
+DSTMA_191,DSTMA_191,1310,living,no,
+DSTMA_192,DSTMA_192,1314,deceased not tumor specific,no,
+DSTMA_193,DSTMA_193,1007,deceased not tumor specific,no,
+DSTMA_194,DSTMA_194,2379,living,no,
+DSTMA_195,DSTMA_195,1000,living,no,
+DSTMA_196,DSTMA_196,102,living,no,
+DSTMA_197,DSTMA_197,306,living,no,
+DSTMA_198,DSTMA_198,195,living,no,
+DSTMA_200,DSTMA_200,1799,living,no,
+DSTMA_201,DSTMA_201,426,deceased not tumor specific,no,
+DSTMA_202,DSTMA_202,485,living,no,
+DSTMA_203,DSTMA_203,484,living,no,
+DSTMA_205,DSTMA_205,2311,living,no,
+DSTMA_206,DSTMA_206,2366,living,no,
+DSTMA_207,DSTMA_207,1337,living,no,
+DSTMA_208,DSTMA_208,284,living,no,
+DSTMA_209,DSTMA_209,2679,living,no,
+DSTMA_210,DSTMA_210,789,living,no,
+DSTMA_211,DSTMA_211,1183,deceased tumor specific,yes,501.0
+DSTMA_212,DSTMA_212,2174,living,no,
+DSTMA_213,DSTMA_213,488,living,no,
+DSTMA_214,DSTMA_214,15,deceased tumor specific,no,
+DSTMA_215,DSTMA_215,3043,living,no,
+DSTMA_216,DSTMA_216,1110,deceased not tumor specific,no,
+DSTMA_217,DSTMA_217,43,living,no,
+DSTMA_218,DSTMA_218,229,deceased tumor specific,yes,229.0
+DSTMA_219,DSTMA_219,937,living,yes,339.0
+DSTMA_220,DSTMA_220,253,deceased not tumor specific,no,
+DSTMA_221,DSTMA_221,2533,living,no,
+DSTMA_222,DSTMA_222,3788,living,no,
+DSTMA_223,DSTMA_223,835,living,no,
+DSTMA_224,DSTMA_224,1301,living,no,
+DSTMA_225,DSTMA_225,652,deceased not tumor specific,no,
+DSTMA_226,DSTMA_226,896,living,no,
+DSTMA_227,DSTMA_227,342,living,no,
+DSTMA_228,DSTMA_228,29,deceased tumor specific,no,
+DSTMA_229,DSTMA_229,3629,living,no,
+DSTMA_230,DSTMA_230,305,deceased not tumor specific,no,
+DSTMA_231,DSTMA_231,72,deceased tumor specific,no,
+DSTMA_232,DSTMA_232,2445,deceased not tumor specific,no,
+DSTMA_233,DSTMA_233,919,living,no,
+DSTMA_234,DSTMA_234,54,deceased tumor specific,no,
+DSTMA_235,DSTMA_235,1223,living,no,
+DSTMA_236,DSTMA_236,1185,living,no,
+DSTMA_237,DSTMA_237,212,living,no,
+DSTMA_238,DSTMA_238,2472,living,yes,2269.0
+DSTMA_239,DSTMA_239,596,living,no,
+DSTMA_240,DSTMA_240,954,living,no,
+DSTMA_241,DSTMA_241,2428,living,no,
+DSTMA_242,DSTMA_242,125,living,no,
+DSTMA_243,DSTMA_243,849,living,no,
+DSTMA_244,DSTMA_244,2030,living,no,
+DSTMA_245,DSTMA_245,1629,living,no,
+DSTMA_246,DSTMA_246,3024,living,no,
+DSTMA_247,DSTMA_247,1161,living,no,
+DSTMA_248,DSTMA_248,1958,living,no,
+DSTMA_249,DSTMA_249,1551,deceased tumor specific,no,
+DSTMA_250,DSTMA_250,78,deceased tumor specific,no,
+DSTMA_251,DSTMA_251,4145,living,no,
+DSTMA_252,DSTMA_252,1631,living,no,
+DSTMA_253,DSTMA_253,244,deceased tumor specific,yes,88.0
+DSTMA_254,DSTMA_254,2331,living,no,
+DSTMA_255,DSTMA_255,967,deceased not tumor specific,no,
+DSTMA_256,DSTMA_256,1610,living,no,
+DSTMA_257,DSTMA_257,2249,living,no,
+DSTMA_258,DSTMA_258,2064,living,no,
+DSTMA_259,DSTMA_259,1108,living,no,
+DSTMA_260,DSTMA_260,301,living,no,
+DSTMA_261,DSTMA_261,3423,living,yes,2885.0
+DSTMA_262,DSTMA_262,3197,living,no,
+DSTMA_263,DSTMA_263,802,deceased tumor specific,yes,147.0
+DSTMA_264,DSTMA_264,78,deceased tumor specific,yes,60.0
+DSTMA_265,DSTMA_265,293,living,no,
+DSTMA_267,DSTMA_267,1039,deceased not tumor specific,no,
+DSTMA_269,DSTMA_269,1716,living,no,
+DSTMA_270,DSTMA_270,1109,living,no,
+DSTMA_271,DSTMA_271,1832,living,no,
+DSTMA_272,DSTMA_272,32,living,no,
+DSTMA_273,DSTMA_273,742,living,no,
+DSTMA_274,DSTMA_274,1745,living,no,
+DSTMA_275,DSTMA_275,1818,living,no,
+DSTMA_276,DSTMA_276,1888,living,no,
+DSTMA_277,DSTMA_277,251,living,no,
+DSTMA_278,DSTMA_278,633,deceased tumor specific,yes,264.0
+DSTMA_279,DSTMA_279,2308,living,no,
+DSTMA_280,DSTMA_280,1365,living,no,
+DSTMA_281,DSTMA_281,1372,living,no,
+DSTMA_283,DSTMA_283,4097,living,no,
+DSTMA_284,DSTMA_284,2415,deceased not tumor specific,no,
+DSTMA_285,DSTMA_285,2086,living,no,
+DSTMA_286,DSTMA_286,2919,living,no,
+DSTMA_287,DSTMA_287,368,deceased,no,
+DSTMA_288,DSTMA_288,1075,living,no,
+DSTMA_289,DSTMA_289,740,living,yes,713.0
+DSTMA_290,DSTMA_290,2824,living,no,
+DSTMA_291,DSTMA_291,1401,living,no,
+DSTMA_292,DSTMA_292,468,deceased not tumor specific,no,
+DSTMA_293,DSTMA_293,2682,living,no,
+DSTMA_294,DSTMA_294,2135,living,yes,204.0
+DSTMA_295,DSTMA_295,196,deceased not tumor specific,yes,191.0
+DSTMA_296,DSTMA_296,55,deceased not tumor specific,no,
+DSTMA_297,DSTMA_297,127,deceased tumor specific,no,
+DSTMA_298,DSTMA_298,170,deceased tumor specific,yes,161.0
+DSTMA_299,DSTMA_299,1379,living,no,
+DSTMA_300,DSTMA_300,211,living,yes,187.0
+DSTMA_301,DSTMA_301,335,deceased tumor specific,yes,261.0
+DSTMA_303,DSTMA_303,503,living,yes,383.0
+DSTMA_304,DSTMA_304,2076,deceased tumor specific,yes,1563.0
+DSTMA_305,DSTMA_305,547,living,yes,546.0
+DSTMA_306,DSTMA_306,2773,living,yes,274.0
+DSTMA_307,DSTMA_307,3325,living,no,
+DSTMA_308,DSTMA_308,802,living,yes,743.0
+DSTMA_309,DSTMA_309,1996,deceased not tumor specific,no,
+DSTMA_310,DSTMA_310,748,living,no,
+DSTMA_311,DSTMA_311,1574,deceased tumor specific,no,
+DSTMA_312,DSTMA_312,478,deceased tumor specific,no,
+DSTMA_313,DSTMA_313,607,living,no,
+DSTMA_314,DSTMA_314,1080,deceased tumor specific,yes,720.0
+DSTMA_315,DSTMA_315,1679,living,no,
+DSTMA_316,DSTMA_316,827,deceased tumor specific,yes,359.0
+DSTMA_317,DSTMA_317,1838,living,yes,200.0
+DSTMA_318,DSTMA_318,880,living,no,
+DSTMA_319,DSTMA_319,2608,living,no,
+DSTMA_320,DSTMA_320,38,living,no,
+DSTMA_321,DSTMA_321,4963,living,no,
+DSTMA_322,DSTMA_322,1941,living,no,
+DSTMA_323,DSTMA_323,1378,living,no,
+DSTMA_324,DSTMA_324,708,deceased tumor specific,yes,609.0
+DSTMA_325,DSTMA_325,1147,deceased tumor specific,yes,185.0
+DSTMA_326,DSTMA_326,838,deceased tumor specific,yes,438.0
+DSTMA_327,DSTMA_327,1316,living,no,
+DSTMA_328,DSTMA_328,784,deceased not tumor specific,yes,384.0
+DSTMA_330,DSTMA_330,367,deceased not tumor specific,no,
+DSTMA_331,DSTMA_331,3046,living,yes,945.0
+DSTMA_333,DSTMA_333,999,deceased tumor specific,no,
+DSTMA_334,DSTMA_334,645,deceased tumor specific,yes,567.0
+DSTMA_335,DSTMA_335,942,deceased not tumor specific,no,
+DSTMA_336,DSTMA_336,1901,living,no,
+DSTMA_337,DSTMA_337,1828,living,yes,258.0
+DSTMA_338,DSTMA_338,1547,living,no,
+DSTMA_339,DSTMA_339,1629,living,no,
+DSTMA_340,DSTMA_340,1753,deceased tumor specific,yes,287.0
+DSTMA_341,DSTMA_341,1879,living,no,
+DSTMA_342,DSTMA_342,1599,deceased not tumor specific,no,
+DSTMA_343,DSTMA_343,2254,living,no,
+DSTMA_344,DSTMA_344,2330,living,no,
+DSTMA_345,DSTMA_345,2822,deceased not tumor specific,no,
+DSTMA_346,DSTMA_346,1479,living,no,
+DSTMA_347,DSTMA_347,1838,living,no,
+DSTMA_349,DSTMA_349,796,deceased tumor specific,yes,64.0
+DSTMA_350,DSTMA_350,3007,living,no,
+DSTMA_351,DSTMA_351,242,living,no,
+DSTMA_352,DSTMA_352,1211,living,no,
+DSTMA_353,DSTMA_353,2233,living,no,
+DSTMA_354,DSTMA_354,1456,living,no,
+DSTMA_355,DSTMA_355,29,living,no,
+DSTMA_356,DSTMA_356,1521,living,yes,328.0
+DSTMA_357,DSTMA_357,1680,living,no,
+DSTMA_358,DSTMA_358,2372,living,no,
+DSTMA_359,DSTMA_359,1399,living,yes,1210.0
+DSTMA_360,DSTMA_360,1612,living,no,
+DSTMA_361,DSTMA_361,1553,living,no,
+DSTMA_362,DSTMA_362,2494,living,no,
+DSTMA_363,DSTMA_363,1699,living,no,
+DSTMA_364,DSTMA_364,2845,living,no,
+DSTMA_365,DSTMA_365,225,living,no,
+DSTMA_366,DSTMA_366,2612,living,no,
+DSTMA_367,DSTMA_367,2217,living,no,
+DSTMA_368,DSTMA_368,1748,living,yes,1484.0
+DSTMA_369,DSTMA_369,3760,deceased tumor specific,no,
+DSTMA_370,DSTMA_370,1797,living,yes,54.0
+DSTMA_371,DSTMA_371,3751,living,no,
+DSTMA_372,DSTMA_372,2475,living,no,
+DSTMA_373,DSTMA_373,920,living,no,
+DSTMA_374,DSTMA_374,196,living,no,
+DSTMA_375,DSTMA_375,1251,living,no,
+DSTMA_376,DSTMA_376,1370,living,no,
+DSTMA_377,DSTMA_377,1342,deceased not tumor specific,no,
+DSTMA_378,DSTMA_378,849,living,no,
+DSTMA_379,DSTMA_379,106,deceased,no,
+DSTMA_380,DSTMA_380,56,living,no,
+DSTMA_381,DSTMA_381,1177,deceased tumor specific,yes,945.0
+DSTMA_382,DSTMA_382,965,deceased tumor specific,yes,94.0
+DSTMA_383,DSTMA_383,1479,deceased tumor specific,yes,1305.0
+DSTMA_384,DSTMA_384,291,deceased tumor specific,yes,169.0
+DSTMA_385,DSTMA_385,562,deceased tumor specific,yes,86.0
+DSTMA_386,DSTMA_386,362,living,no,
+DSTMA_387,DSTMA_387,315,living,no,
+DSTMA_388,DSTMA_388,148,living,no,
+DSTMA_389,DSTMA_389,3088,living,no,
+DSTMA_390,DSTMA_390,1751,living,no,
+DSTMA_391,DSTMA_391,1072,deceased tumor specific,yes,670.0
+DSTMA_392,DSTMA_392,1128,living,no,
+DSTMA_393,DSTMA_393,2499,living,no,
+DSTMA_394,DSTMA_394,350,living,no,
+DSTMA_395,DSTMA_395,222,living,no,
+DSTMA_396,DSTMA_396,2737,living,no,
+DSTMA_397,DSTMA_397,2149,living,no,
+DSTMA_398,DSTMA_398,2578,living,no,
+DSTMA_399,DSTMA_399,113,deceased tumor specific,no,
+DSTMA_400,DSTMA_400,335,living,no,
+DSTMA_401,DSTMA_401,931,living,no,
+DSTMA_402,DSTMA_402,2728,living,no,
+DSTMA_403,DSTMA_403,842,deceased tumor specific,yes,804.0
+DSTMA_404,DSTMA_404,1346,living,no,
+DSTMA_405,DSTMA_405,954,living,yes,13.0
+DSTMA_406,DSTMA_406,234,living,no,
+DSTMA_407,DSTMA_407,1220,living,no,
+DSTMA_408,DSTMA_408,1054,living,no,
+DSTMA_409,DSTMA_409,1676,living,no,
+DSTMA_410,DSTMA_410,2911,living,no,
+DSTMA_411,DSTMA_411,2428,living,no,
+DSTMA_412,DSTMA_412,2436,living,no,
+DSTMA_413,DSTMA_413,2789,living,no,
+DSTMA_414,DSTMA_414,960,living,no,
+DSTMA_415,DSTMA_415,705,deceased tumor specific,yes,353.0
+DSTMA_416,DSTMA_416,24,living,no,
+DSTMA_417,DSTMA_417,145,deceased tumor specific,no,
+DSTMA_418,DSTMA_418,548,deceased tumor specific,yes,388.0
+DSTMA_419,DSTMA_419,2669,living,no,
+DSTMA_420,DSTMA_420,2853,living,no,
+DSTMA_421,DSTMA_421,891,deceased tumor specific,yes,405.0
+DSTMA_422,DSTMA_422,1185,living,no,
+DSTMA_423,DSTMA_423,3037,living,no,
+DSTMA_424,DSTMA_424,414,deceased not tumor specific,yes,135.0
+DSTMA_425,DSTMA_425,261,living,no,
+DSTMA_426,DSTMA_426,415,living,no,
+DSTMA_427,DSTMA_427,2810,living,no,
+DSTMA_428,DSTMA_428,1121,living,no,
+DSTMA_429,DSTMA_429,1835,living,yes,696.0
+DSTMA_430,DSTMA_430,1720,living,no,
+DSTMA_431,DSTMA_431,1323,living,no,
+DSTMA_432,DSTMA_432,1230,living,yes,237.0
+DSTMA_433,DSTMA_433,2194,deceased tumor specific,yes,1118.0
+DSTMA_434,DSTMA_434,1418,deceased tumor specific,yes,683.0
+DSTMA_435,DSTMA_435,413,deceased tumor specific,no,
+DSTMA_436,DSTMA_436,515,deceased tumor specific,yes,250.0
+DSTMA_439,DSTMA_439,392,living,yes,309.0
+DSTMA_441,DSTMA_441,2807,living,no,
+DSTMA_442,DSTMA_442,729,living,no,
+DSTMA_443,DSTMA_443,2744,living,no,
+DSTMA_444,DSTMA_444,2038,deceased tumor specific,no,
+DSTMA_445,DSTMA_445,660,living,no,
+DSTMA_446,DSTMA_446,1811,living,no,
+DSTMA_447,DSTMA_447,1641,living,no,
+DSTMA_449,DSTMA_449,842,living,no,
+DSTMA_450,DSTMA_450,510,living,no,
+DSTMA_451,DSTMA_451,2167,deceased not tumor specific,no,
+DSTMA_452,DSTMA_452,2695,living,no,
+DSTMA_453,DSTMA_453,2310,living,no,
+DSTMA_454,DSTMA_454,3053,living,no,
+DSTMA_455,DSTMA_455,47,living,no,
+DSTMA_456,DSTMA_456,1041,living,no,
+DSTMA_457,DSTMA_457,117,living,no,
+DSTMA_458,DSTMA_458,290,living,no,
+DSTMA_459,DSTMA_459,1160,deceased not tumor specific,no,
+DSTMA_460,DSTMA_460,38,deceased not tumor specific,no,
+DSTMA_461,DSTMA_461,2751,living,yes,1919.0
+DSTMA_462,DSTMA_462,2169,living,no,
+DSTMA_463,DSTMA_463,939,deceased not tumor specific,no,
+DSTMA_464,DSTMA_464,2147,deceased tumor specific,yes,129.0
+DSTMA_465,DSTMA_465,1955,living,no,
+DSTMA_466,DSTMA_466,692,deceased tumor specific,yes,224.0
+DSTMA_467,DSTMA_467,2260,living,no,
+DSTMA_468,DSTMA_468,1873,living,yes,1807.0
+DSTMA_469,DSTMA_469,1496,living,no,
+DSTMA_470,DSTMA_470,2996,living,yes,1279.0
+DSTMA_471,DSTMA_471,98,living,no,
+DSTMA_472,DSTMA_472,1771,living,no,
+DSTMA_473,DSTMA_473,242,living,no,
+DSTMA_474,DSTMA_474,155,living,no,
+DSTMA_475,DSTMA_475,3275,living,no,
+DSTMA_476,DSTMA_476,1092,living,no,
+DSTMA_477,DSTMA_477,1440,living,yes,926.0
+DSTMA_478,DSTMA_478,1673,living,no,
+DSTMA_479,DSTMA_479,2040,living,no,
+DSTMA_480,DSTMA_480,1011,living,no,
+DSTMA_481,DSTMA_481,154,living,no,
+DSTMA_482,DSTMA_482,3222,living,no,
+DSTMA_483,DSTMA_483,4118,living,no,
+DSTMA_484,DSTMA_484,546,living,yes,427.0
+DSTMA_485,DSTMA_485,2512,living,no,
+DSTMA_486,DSTMA_486,4500,deceased not tumor specific,no,
+DSTMA_487,DSTMA_487,1045,living,no,
+DSTMA_488,DSTMA_488,2584,living,no,
+DSTMA_489,DSTMA_489,209,living,no,
+DSTMA_490,DSTMA_490,1494,living,no,
+DSTMA_491,DSTMA_491,1129,living,no,
+DSTMA_492,DSTMA_492,3124,living,no,
+DSTMA_493,DSTMA_493,1843,living,no,
+DSTMA_494,DSTMA_494,2312,living,no,
+DSTMA_495,DSTMA_495,1059,living,no,
+DSTMA_496,DSTMA_496,1106,living,no,
+DSTMA_498,DSTMA_498,1347,living,no,
+DSTMA_499,DSTMA_499,775,living,no,
+DSTMA_500,DSTMA_500,2502,living,no,
+DSTMA_501,DSTMA_501,48,deceased not tumor specific,no,
+DSTMA_502,DSTMA_502,3077,living,yes,518.0
+DSTMA_503,DSTMA_503,1941,living,no,
+DSTMA_504,DSTMA_504,1581,living,no,
+DSTMA_505,DSTMA_505,334,living,no,
+DSTMA_506,DSTMA_506,1711,deceased tumor specific,yes,947.0
+DSTMA_507,DSTMA_507,175,deceased not tumor specific,yes,58.0
+DSTMA_508,DSTMA_508,306,living,no,
+DSTMA_509,DSTMA_509,3337,living,no,
+DSTMA_510,DSTMA_510,454,deceased tumor specific,yes,356.0
+DSTMA_511,DSTMA_511,982,living,no,
+DSTMA_512,DSTMA_512,103,deceased tumor specific,no,
+DSTMA_513,DSTMA_513,1022,deceased not tumor specific,no,
+DSTMA_514,DSTMA_514,595,living,no,
+DSTMA_516,DSTMA_516,207,deceased not tumor specific,no,
+DSTMA_517,DSTMA_517,282,living,no,
+DSTMA_518,DSTMA_518,99,living,no,
+DSTMA_519,DSTMA_519,1357,living,no,
+DSTMA_520,DSTMA_520,823,living,yes,285.0
+DSTMA_521,DSTMA_521,133,deceased tumor specific,yes,49.0
+DSTMA_522,DSTMA_522,247,living,no,
+DSTMA_523,DSTMA_523,1358,living,no,
+DSTMA_524,DSTMA_524,1090,living,no,
+DSTMA_525,DSTMA_525,1675,living,no,
+DSTMA_527,DSTMA_527,3728,deceased not tumor specific,no,
+DSTMA_528,DSTMA_528,3178,living,no,
+DSTMA_529,DSTMA_529,1003,living,no,
+DSTMA_530,DSTMA_530,1453,living,yes,460.0
+DSTMA_531,DSTMA_531,2578,living,no,
+DSTMA_532,DSTMA_532,3232,living,no,
+DSTMA_533,DSTMA_533,89,deceased not tumor specific,no,
+DSTMA_534,DSTMA_534,2455,living,no,
+DSTMA_535,DSTMA_535,1004,living,no,
+DSTMA_536,DSTMA_536,1133,living,no,
+DSTMA_538,DSTMA_538,141,living,yes,138.0
+DSTMA_539,DSTMA_539,661,living,yes,132.0
+DSTMA_540,DSTMA_540,1409,living,no,
+DSTMA_541,DSTMA_541,299,deceased tumor specific,yes,286.0
+DSTMA_542,DSTMA_542,1546,deceased not tumor specific,no,
+DSTMA_543,DSTMA_543,2055,living,no,
+DSTMA_544,DSTMA_544,47,deceased not tumor specific,no,
+DSTMA_545,DSTMA_545,2400,living,no,
+DSTMA_546,DSTMA_546,441,living,no,
+DSTMA_547,DSTMA_547,2540,living,no,
+DSTMA_548,DSTMA_548,770,living,no,
+DSTMA_549,DSTMA_549,370,living,yes,370.0
+DSTMA_550,DSTMA_550,104,deceased not tumor specific,no,
+DSTMA_551,DSTMA_551,1543,living,yes,1192.0
+DSTMA_552,DSTMA_552,4515,living,no,
+DSTMA_553,DSTMA_553,2326,living,yes,2200.0
+DSTMA_554,DSTMA_554,256,deceased tumor specific,yes,189.0
+DSTMA_555,DSTMA_555,642,deceased tumor specific,yes,100.0
+DSTMA_556,DSTMA_556,1447,living,no,
+DSTMA_557,DSTMA_557,1329,living,no,
+DSTMA_558,DSTMA_558,926,living,no,
+DSTMA_559,DSTMA_559,965,living,no,
+DSTMA_560,DSTMA_560,3549,living,no,
+DSTMA_561,DSTMA_561,44,living,no,
+DSTMA_562,DSTMA_562,776,living,no,
+DSTMA_563,DSTMA_563,1885,living,no,
+DSTMA_564,DSTMA_564,1363,living,no,
+DSTMA_565,DSTMA_565,1798,living,no,
+DSTMA_566,DSTMA_566,405,living,no,
+DSTMA_567,DSTMA_567,2876,living,no,
+DSTMA_568,DSTMA_568,2786,living,no,
+DSTMA_569,DSTMA_569,75,living,no,
+DSTMA_570,DSTMA_570,433,living,yes,412.0
+DSTMA_572,DSTMA_572,2771,living,yes,1069.0
+DSTMA_573,DSTMA_573,955,deceased tumor specific,yes,892.0
+DSTMA_574,DSTMA_574,1299,living,no,
+DSTMA_575,DSTMA_575,3486,living,no,
+DSTMA_576,DSTMA_576,983,deceased not tumor specific,no,
+DSTMA_577,DSTMA_577,3031,living,no,
+DSTMA_578,DSTMA_578,914,living,no,
+DSTMA_579,DSTMA_579,694,deceased tumor specific,yes,510.0
+DSTMA_580,DSTMA_580,1735,living,no,
+DSTMA_581,DSTMA_581,1771,living,no,
+DSTMA_582,DSTMA_582,2569,living,no,
+DSTMA_583,DSTMA_583,342,living,yes,68.0
+DSTMA_584,DSTMA_584,1189,deceased not tumor specific,no,
+DSTMA_585,DSTMA_585,1311,living,no,
+DSTMA_587,DSTMA_587,530,living,no,
+DSTMA_588,DSTMA_588,153,living,yes,153.0
+DSTMA_589,DSTMA_589,1474,deceased not tumor specific,no,
+DSTMA_590,DSTMA_590,3973,living,no,
+DSTMA_591,DSTMA_591,1159,living,yes,230.0
+DSTMA_592,DSTMA_592,54,living,no,
+DSTMA_593,DSTMA_593,1069,living,no,
+DSTMA_594,DSTMA_594,1419,living,yes,1123.0
+DSTMA_595,DSTMA_595,644,living,no,
+DSTMA_597,DSTMA_597,222,living,no,
+DSTMA_598,DSTMA_598,798,living,no,
+DSTMA_599,DSTMA_599,2693,living,no,
+DSTMA_600,DSTMA_600,3198,living,no,
+DSTMA_601,DSTMA_601,3017,living,no,
+DSTMA_602,DSTMA_602,640,living,yes,254.0
+DSTMA_603,DSTMA_603,1848,deceased not tumor specific,no,
+DSTMA_604,DSTMA_604,584,deceased tumor specific,yes,398.0
+DSTMA_605,DSTMA_605,1271,living,no,
+DSTMA_606,DSTMA_606,1359,deceased not tumor specific,no,
+DSTMA_607,DSTMA_607,1522,deceased tumor specific,yes,1083.0
+DSTMA_608,DSTMA_608,2379,living,no,
+DSTMA_609,DSTMA_609,3571,living,no,
+DSTMA_610,DSTMA_610,1498,living,no,
+DSTMA_611,DSTMA_611,2327,living,no,
+DSTMA_612,DSTMA_612,222,living,no,
+DSTMA_613,DSTMA_613,1625,deceased not tumor specific,no,
+DSTMA_614,DSTMA_614,2131,deceased not tumor specific,yes,1021.0
+DSTMA_615,DSTMA_615,3352,living,no,
+DSTMA_616,DSTMA_616,577,deceased tumor specific,yes,304.0
+DSTMA_617,DSTMA_617,1436,living,yes,1190.0
+DSTMA_618,DSTMA_618,2436,living,no,
+DSTMA_619,DSTMA_619,1775,living,no,
+DSTMA_620,DSTMA_620,460,living,no,
+DSTMA_621,DSTMA_621,1023,living,yes,476.0
+DSTMA_622,DSTMA_622,3716,living,yes,2056.0
+DSTMA_623,DSTMA_623,2861,living,no,
+DSTMA_624,DSTMA_624,2640,living,no,
+DSTMA_625,DSTMA_625,374,deceased tumor specific,yes,344.0
+DSTMA_626,DSTMA_626,21,living,no,
+DSTMA_627,DSTMA_627,2463,living,no,
+DSTMA_628,DSTMA_628,3302,living,no,
+DSTMA_629,DSTMA_629,693,living,yes,231.0
+DSTMA_630,DSTMA_630,3073,living,yes,79.0
+DSTMA_631,DSTMA_631,707,deceased tumor specific,yes,259.0
+DSTMA_632,DSTMA_632,2163,living,yes,1967.0
+DSTMA_633,DSTMA_633,114,deceased tumor specific,yes,101.0
+DSTMA_634,DSTMA_634,2569,living,no,
+DSTMA_635,DSTMA_635,1383,living,yes,160.0
+DSTMA_636,DSTMA_636,3202,living,no,
+DSTMA_637,DSTMA_637,175,living,no,
+DSTMA_638,DSTMA_638,2901,living,no,
+DSTMA_639,DSTMA_639,801,living,no,
+DSTMA_640,DSTMA_640,23,living,no,
+DSTMA_641,DSTMA_641,2913,living,no,
+DSTMA_642,DSTMA_642,1203,living,no,
+DSTMA_643,DSTMA_643,540,deceased,no,
+DSTMA_644,DSTMA_644,1145,living,no,
+DSTMA_645,DSTMA_645,379,deceased tumor specific,yes,287.0
+DSTMA_646,DSTMA_646,3517,living,no,
+DSTMA_647,DSTMA_647,1747,living,no,
+DSTMA_648,DSTMA_648,511,living,yes,247.0
+DSTMA_649,DSTMA_649,4221,deceased not tumor specific,no,
+DSTMA_650,DSTMA_650,1617,deceased not tumor specific,no,
+DSTMA_651,DSTMA_651,323,living,no,
+DSTMA_652,DSTMA_652,3169,living,no,
+DSTMA_653,DSTMA_653,2959,deceased tumor specific,yes,1345.0
+DSTMA_654,DSTMA_654,1954,deceased not tumor specific,no,
+DSTMA_655,DSTMA_655,1064,living,no,
+DSTMA_656,DSTMA_656,651,deceased not tumor specific,no,
+DSTMA_657,DSTMA_657,2366,living,no,
+DSTMA_658,DSTMA_658,1706,living,no,
+DSTMA_659,DSTMA_659,1959,living,no,
+DSTMA_660,DSTMA_660,2605,living,no,
+DSTMA_661,DSTMA_661,3600,living,no,
+DSTMA_662,DSTMA_662,857,deceased,yes,95.0
+DSTMA_663,DSTMA_663,1803,living,no,
+DSTMA_664,DSTMA_664,142,living,no,
+DSTMA_665,DSTMA_665,2474,deceased not tumor specific,no,
+DSTMA_666,DSTMA_666,888,living,no,
+DSTMA_667,DSTMA_667,728,deceased tumor specific,no,
+DSTMA_668,DSTMA_668,1142,deceased not tumor specific,no,
+DSTMA_669,DSTMA_669,2383,living,no,
+DSTMA_670,DSTMA_670,1805,living,no,
+DSTMA_671,DSTMA_671,890,deceased tumor specific,yes,285.0
+DSTMA_672,DSTMA_672,866,deceased tumor specific,no,
+DSTMA_673,DSTMA_673,3295,deceased not tumor specific,no,
+DSTMA_674,DSTMA_674,9,living,no,
+DSTMA_675,DSTMA_675,1862,deceased not tumor specific,no,
+DSTMA_676,DSTMA_676,238,living,no,
+DSTMA_677,DSTMA_677,575,living,no,
+DSTMA_678,DSTMA_678,1432,living,no,
+DSTMA_679,DSTMA_679,664,living,yes,434.0
+DSTMA_680,DSTMA_680,408,deceased tumor specific,yes,345.0
+DSTMA_681,DSTMA_681,733,living,yes,300.0
+DSTMA_682,DSTMA_682,276,deceased not tumor specific,no,
+DSTMA_683,DSTMA_683,709,living,no,
+DSTMA_684,DSTMA_684,1651,living,no,
+DSTMA_685,DSTMA_685,706,living,no,
+DSTMA_686,DSTMA_686,433,living,no,
+DSTMA_687,DSTMA_687,1540,living,no,
+DSTMA_688,DSTMA_688,811,living,no,
+DSTMA_689,DSTMA_689,2625,living,no,
+DSTMA_690,DSTMA_690,1400,living,no,
+DSTMA_691,DSTMA_691,1669,deceased tumor specific,yes,1169.0
+DSTMA_692,DSTMA_692,25,living,no,
+DSTMA_693,DSTMA_693,3085,deceased tumor specific,yes,3002.0
+DSTMA_695,DSTMA_695,1357,living,no,
+DSTMA_696,DSTMA_696,763,living,no,
+DSTMA_697,DSTMA_697,374,living,no,
+DSTMA_698,DSTMA_698,1834,living,no,
+DSTMA_699,DSTMA_699,203,living,no,
+DSTMA_700,DSTMA_700,1492,deceased tumor specific,yes,398.0
+DSTMA_701,DSTMA_701,1582,living,yes,1430.0
+DSTMA_702,DSTMA_702,2282,living,yes,269.0
+DSTMA_703,DSTMA_703,823,living,yes,659.0
+DSTMA_704,DSTMA_704,1626,deceased tumor specific,yes,311.0
+DSTMA_705,DSTMA_705,2106,living,no,
+DSTMA_706,DSTMA_706,1517,living,no,
+DSTMA_707,DSTMA_707,1784,living,no,
+DSTMA_708,DSTMA_708,368,deceased not tumor specific,no,
+DSTMA_709,DSTMA_709,424,deceased tumor specific,yes,199.0
+DSTMA_711,DSTMA_711,1914,living,no,
+DSTMA_712,DSTMA_712,2189,living,no,
+DSTMA_713,DSTMA_713,2107,living,yes,1372.0
+DSTMA_714,DSTMA_714,1087,deceased tumor specific,yes,778.0
+DSTMA_715,DSTMA_715,1031,living,no,
+DSTMA_716,DSTMA_716,2332,living,no,
+DSTMA_717,DSTMA_717,373,deceased not tumor specific,no,
+DSTMA_718,DSTMA_718,728,living,no,
+DSTMA_719,DSTMA_719,1363,living,yes,91.0
+DSTMA_720,DSTMA_720,1237,deceased,no,
+DSTMA_721,DSTMA_721,1330,deceased,yes,852.0
+DSTMA_722,DSTMA_722,605,deceased tumor specific,yes,590.0
+DSTMA_723,DSTMA_723,751,living,no,
+DSTMA_724,DSTMA_724,1276,deceased tumor specific,no,
+DSTMA_725,DSTMA_725,997,living,yes,250.0
+DSTMA_726,DSTMA_726,1988,living,no,
+DSTMA_727,DSTMA_727,788,deceased tumor specific,yes,447.0
+DSTMA_728,DSTMA_728,206,deceased not tumor specific,no,
+DSTMA_730,DSTMA_730,1091,living,no,
+DSTMA_731,DSTMA_731,908,living,yes,362.0
+DSTMA_732,DSTMA_732,2660,deceased not tumor specific,no,
+DSTMA_733,DSTMA_733,5163,living,no,
+DSTMA_734,DSTMA_734,1576,living,yes,548.0
+DSTMA_735,DSTMA_735,372,deceased tumor specific,yes,356.0
+DSTMA_736,DSTMA_736,1667,living,yes,187.0
+DSTMA_737,DSTMA_737,716,living,no,
+DSTMA_738,DSTMA_738,1967,living,no,
+DSTMA_739,DSTMA_739,463,living,no,
+DSTMA_740,DSTMA_740,537,deceased tumor specific,yes,252.0
+DSTMA_741,DSTMA_741,167,deceased not tumor specific,no,
+DSTMA_743,DSTMA_743,3072,deceased not tumor specific,no,
+DSTMA_744,DSTMA_744,431,living,no,
+DSTMA_745,DSTMA_745,1855,living,no,
+DSTMA_746,DSTMA_746,1646,living,no,
+DSTMA_747,DSTMA_747,1654,living,yes,579.0
+DSTMA_748,DSTMA_748,474,deceased tumor specific,yes,363.0
+DSTMA_749,DSTMA_749,38,living,no,
+DSTMA_750,DSTMA_750,758,living,no,
+DSTMA_751,DSTMA_751,2270,deceased not tumor specific,no,
+DSTMA_752,DSTMA_752,2848,living,no,
+DSTMA_753,DSTMA_753,920,deceased not tumor specific,no,
+DSTMA_754,DSTMA_754,174,deceased tumor specific,no,
+DSTMA_755,DSTMA_755,511,living,no,
+DSTMA_756,DSTMA_756,336,living,no,
+DSTMA_757,DSTMA_757,292,living,no,
+DSTMA_758,DSTMA_758,3253,living,no,
+DSTMA_760,DSTMA_760,484,deceased,yes,132.0
+DSTMA_761,DSTMA_761,1082,deceased tumor specific,yes,606.0
+DSTMA_762,DSTMA_762,1644,living,no,
+DSTMA_763,DSTMA_763,1689,living,no,
