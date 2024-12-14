@@ -1,5 +1,3 @@
-Here’s the refined README in Markdown format, ready for GitHub:
-
 # CLAM_HANCOCK
 
 ## Attention-Based Multiple Instance Learning for the HANCOCK Dataset
@@ -32,5 +30,3 @@ This repository contains several additional scripts and notebooks for data prepa
 ### License
 
 This code is released under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html), in accordance with the original [CLAM repository](https://github.com/mahmoodlab/CLAM).
-
-This Markdown version ensures the links and bullet points display correctly in GitHub’s README format. You can directly paste it into your README.md file.
