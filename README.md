@@ -21,11 +21,11 @@ Please refer to the original [CLAM documentation](https://github.com/mahmoodlab/
 This repository contains several additional scripts and notebooks for data preparation, analysis, and validation, located in the `Additional` folder:
 
 - [`CLAM_UNI/AG2_heatmap_analysis.ipynb`](CLAM_UNI/AG2_heatmap_analysis.ipynb): Contains inference code for aggregated data.
-- [`Aggregation.ipynb`](Aggregation.ipynb): Combines features extracted from TMAs and WSIs.
-- [`checking_out_the_clam_outputs.ipynb`](checking_out_the_clam_outputs.ipynb): Analyzes attention outputs from the CLAM model.
-- [`Statistical_analysis.ipynb`](Statistical_analysis.ipynb): Performs statistical comparisons (e.g., t-tests, U-tests) and generates related plots for the thesis.
-- [`TMA_constructor.py`](TMA_constructor.py): Assembles multi-stained TMA data used in the thesis.
-- [`vizs.ipynb`](vizs.ipynb): Visualizes and compares results extracted from the `CLAM_UNI`.
+- [`Additional/Aggregation.ipynb`](Aggregation.ipynb): Combines features extracted from TMAs and WSIs.
+- [`Additional/checking_out_the_clam_outputs.ipynb`](checking_out_the_clam_outputs.ipynb): Analyzes attention outputs from the CLAM model.
+- [`Additional/Statistical_analysis.ipynb`](Statistical_analysis.ipynb): Performs statistical comparisons (e.g., t-tests, U-tests) and generates related plots for the thesis.
+- [`Additional/TMA_constructor.py`](TMA_constructor.py): Assembles multi-stained TMA data used in the thesis.
+- [`Additional/vizs.ipynb`](vizs.ipynb): Visualizes and compares results extracted from the `CLAM_UNI`.
 
 ## License
 
