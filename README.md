@@ -4,7 +4,7 @@
 
 This repository builds upon the [CLAM](https://github.com/mahmoodlab/CLAM) framework for weakly-supervised classification of Whole-Slide Images (WSIs) and Tissue Microarrays (TMAs). It uses images from the [HANCOCK](https://hancock.research.fau.eu/) dataset, which have been preprocessed according to the original CLAM documentation. Multiple pre-trained models were also evaluated as part of this work.
 
-### Data Preparation
+## Data Preparation
 
 - **Whole-Slide Images (WSIs):** Can be directly processed through the CLAM pipeline.  
 - **Tissue Microarrays (TMAs):**  
@@ -12,11 +12,11 @@ This repository builds upon the [CLAM](https://github.com/mahmoodlab/CLAM) frame
   2. Then, use `TMA_constructor.py` (in the `Additional` folder) to reconstruct new PNG images for each patient with different stainings.  
   3. The resulting data can then be processed through the CLAM pipeline.
 
-### Usage
+## Usage
 
 Please refer to the original [CLAM documentation](https://github.com/mahmoodlab/CLAM) for pipeline setup and usage instructions.  
 
-### Additional Scripts
+## Additional Scripts
 
 This repository contains several additional scripts and notebooks for data preparation, analysis, and validation, located in the `Additional` folder:
 
@@ -27,6 +27,6 @@ This repository contains several additional scripts and notebooks for data prepa
 - [`TMA_constructor.py`](TMA_constructor.py): Assembles multi-stained TMA data used in the thesis.
 - [`vizs.ipynb`](vizs.ipynb): Visualizes and compares results extracted from the `CLAM_UNI`.
 
-### License
+## License
 
 This code is released under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html), in accordance with the original [CLAM repository](https://github.com/mahmoodlab/CLAM).
