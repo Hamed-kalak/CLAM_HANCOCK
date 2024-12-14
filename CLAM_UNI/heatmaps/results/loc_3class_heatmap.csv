@@ -1,0 +1,10 @@
+slide_id,label,process,status,seg_level,sthresh,mthresh,close,use_otsu,keep_ids,exclude_ids,a_t,a_h,max_n_holes,vis_level,line_thickness,use_padding,contour_fn,bag_size,Pred_0,p_0,Pred_1,p_1,Pred_2,p_2
+PrimaryTumor_HE_141,Oropharynx,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,276724.0,Oropharynx,0.5457375049591064,Oral_Cavity,0.4324793219566345,Larynx,0.021783195436000824
+PrimaryTumor_HE_627,Oropharynx,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,210292.0,Oropharynx,0.999998927116394,Larynx,7.294486294995295e-07,Oral_Cavity,3.119877192148124e-07
+PrimaryTumor_HE_549,Oropharynx,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,294453.0,Oropharynx,0.7587223052978516,Oral_Cavity,0.2167941927909851,Larynx,0.024483557790517807
+PrimaryTumor_HE_495,Larynx,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,91980.0,Larynx,0.7761110067367554,Oropharynx,0.1711454838514328,Oral_Cavity,0.052743490785360336
+PrimaryTumor_HE_684,Larynx,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,28021.0,Larynx,0.9999701976776123,Oropharynx,2.1702708181692287e-05,Oral_Cavity,8.13989663583925e-06
+PrimaryTumor_HE_178,Larynx,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,37318.0,Larynx,0.9997525811195374,Oropharynx,0.00020037339709233493,Oral_Cavity,4.703030936070718e-05
+PrimaryTumor_HE_544,Oral_Cavity,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,255652.0,Oral_Cavity,0.9008583426475525,Oropharynx,0.08317868411540985,Larynx,0.015962932258844376
+PrimaryTumor_HE_454,Oral_Cavity,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,248080.0,Oral_Cavity,0.984300434589386,Oropharynx,0.014205550774931908,Larynx,0.0014940304681658745
+PrimaryTumor_HE_747,Oral_Cavity,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,143625.0,Oral_Cavity,0.9957616925239563,Oropharynx,0.0034599266946315765,Larynx,0.0007783143082633615

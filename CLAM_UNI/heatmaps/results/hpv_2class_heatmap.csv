@@ -1,0 +1,7 @@
+slide_id,label,process,status,seg_level,sthresh,mthresh,close,use_otsu,keep_ids,exclude_ids,a_t,a_h,max_n_holes,vis_level,line_thickness,use_padding,contour_fn,bag_size,Pred_0,p_0,Pred_1,p_1
+PrimaryTumor_HE_387,HPV+,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,263157.0,HPV+,0.6236716508865356,HPV-,0.37632840871810913
+PrimaryTumor_HE_762,HPV+,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,193680.0,HPV+,0.8391897678375244,HPV-,0.16081026196479797
+PrimaryTumor_HE_361,HPV+,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,224101.0,HPV-,0.7640534043312073,HPV+,0.23594659566879272
+PrimaryTumor_HE_279,HPV-,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,50104.0,HPV-,0.7728481888771057,HPV+,0.2271517813205719
+PrimaryTumor_HE_473,HPV-,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,25194.0,HPV-,0.7143504619598389,HPV+,0.2856495678424835
+PrimaryTumor_HE_071,HPV-,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,303115.0,HPV-,0.8836803436279297,HPV+,0.11631964147090912

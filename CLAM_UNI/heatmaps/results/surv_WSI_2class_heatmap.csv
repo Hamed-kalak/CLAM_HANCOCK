@@ -1,0 +1,7 @@
+slide_id,label,process,status,seg_level,sthresh,mthresh,close,use_otsu,keep_ids,exclude_ids,a_t,a_h,max_n_holes,vis_level,line_thickness,use_padding,contour_fn,bag_size,Pred_0,p_0,Pred_1,p_1
+PrimaryTumor_HE_119,living,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,198936.0,living,0.755977213382721,deceased,0.24402280151844025
+PrimaryTumor_HE_534,living,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,180632.0,living,0.6321943402290344,deceased,0.36780571937561035
+PrimaryTumor_HE_702,living,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,71072.0,living,0.6098493337631226,deceased,0.39015063643455505
+PrimaryTumor_HE_101,deceased,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,190180.0,living,0.5431473255157471,deceased,0.4568527042865753
+PrimaryTumor_HE_165,deceased,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,119001.0,living,0.6755439043045044,deceased,0.3244561553001404
+PrimaryTumor_HE_170,deceased,1,tbp,-1,15,11,4,False,none,none,100.0,16.0,8,-1,150,True,four_pt,173756.0,living,0.731688916683197,deceased,0.2683110535144806
