@@ -2,7 +2,7 @@
 
 ## Attention-based Multiple Instance Learning for HANCOCK
 
-The code is based on the [CLAM](https://github.com/mahmoodlab/CLAM) framework for weakly-supervised classification on whole-slide images. The images were preprocessed as described in the original documentation. Please following the original documentation from CLAM
+The code is based on the [CLAM](https://github.com/mahmoodlab/CLAM) framework for weakly-supervised classification on whole-slide images. The images were preprocessed as described in the original documentation. Please follow the original documentation from CLAM
 
 ## License
 
