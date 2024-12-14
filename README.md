@@ -5,7 +5,7 @@
 This repository builds upon the [CLAM](https://github.com/mahmoodlab/CLAM) framework for weakly-supervised classification of Whole-Slide Images (WSIs) and Tissue Microarrays (TMAs). It uses images from the [HANCOCK](https://hancock.research.fau.eu/) dataset, which have been preprocessed according to the original CLAM documentation. Multiple pre-trained models were also evaluated as part of this work.
 
 ## Data Preparation
-
+Images could be downloaded from [here](https://hancock.research.fau.eu/)
 - **Whole-Slide Images (WSIs):** Can be directly processed through the CLAM pipeline.  
 - **Tissue Microarrays (TMAs):**  
   1. TMAs must first be dearrayed using [QuPath scripts](https://github.com/ankilab/HANCOCK_MultimodalDataset/tree/main/qupath_scripts/dearray_tma.groovy).  
@@ -14,7 +14,7 @@ This repository builds upon the [CLAM](https://github.com/mahmoodlab/CLAM) frame
 
 ## Usage
 
-Please refer to the original [CLAM documentation](https://github.com/mahmoodlab/CLAM) for pipeline setup and usage instructions.  
+Please refer to the original [CLAM documentation](https://github.com/mahmoodlab/CLAM) for pipeline setup and usage instructions. WSI and TMA could be trained on CLAM individually and combined. to do Cpmbined first both datasets must be encoded to features through either models and then aggregated through [`Aggregation.ipynb`](Aggregation.ipynb). Afterwards it could be trained on the attention head and analysed using [`CLAM_UNI/AG2_heatmap_analysis.ipynb`](CLAM_UNI/AG2_heatmap_analysis.ipynb)
 
 ## Additional Scripts
 
