@@ -1,22 +1,34 @@
-# CLAM_HANCOCK
+Here’s a refined and clearer version of your README file:
 
-## Attention-based Multiple Instance Learning for HANCOCK
+CLAM_HANCOCK
 
-The code is based on the [CLAM](https://github.com/mahmoodlab/CLAM) framework for weakly-supervised classification on whole-slide (WSI) images and Tissue Microarrays (TMA). The Images from [HANCOCK](https://hancock.research.fau.eu/) dataset were used and preprocessed as described in the original CLAM documentation. Moreover multiple pre-trained models were investigated. 
+Attention-Based Multiple Instance Learning for the HANCOCK Dataset
 
-WSI data can directly be used through the CLAM pipeline and TMA data have to first be dearrayed through qupath provided [code](https://github.com/ankilab/HANCOCK_MultimodalDataset) ...qupath_scripts/dearray_tma.groovy and then be constructed back using Additional/TMA_constructor.py code which makes new PNG images for each patiinet with different staining. Afterwards it could through the CLAM pipeline.
+This repository builds upon the CLAM framework for weakly-supervised classification of Whole-Slide Images (WSIs) and Tissue Microarrays (TMAs). It uses images from the HANCOCK dataset, which have been preprocessed according to the original CLAM documentation. Multiple pre-trained models were also evaluated as part of this work.
 
-To use the code please follow the original documentation from CLAM. 
+Data Preparation
+	•	Whole-Slide Images (WSIs): Can be directly processed through the CLAM pipeline.
+	•	Tissue Microarrays (TMAs):
+	1.	TMAs must first be dearrayed using QuPath scripts.
+	2.	Then, the TMA_constructor.py script (found in the Additional folder) reconstructs new PNG images for each patient with different stainings.
+	3.	Once prepared, the data can be processed through the CLAM pipeline.
 
-Additionally there are some other codes used for sanity check and comparison or etc. (Additional foldere): 
-*  .../CLAM_UNI/AG2_heatmap_analysis.ipynb: include the inference part for the aggregated data
-*  Aggregatio.ipynb: The part that combines the features extracted from the TMA and WSI 
-*  checking_out_the_clam_outputs.ipynb: Attention analysis
-*  Statistical_analysis.ipynb: plots and procedure used for Statistical part of the thesis which compares multiple distribution with t-test and u-test
-*  TMA_constructor.py: is the part used to collect the TMAs with different staining and making the multi stained TMA data used in the thesis.
-*  vizs.ipynb: includes the plots and comparision of the results extracted from the CLAM_UNI
-    
-## License
+Usage
 
-The code is released under the GPLv3 License following the original code base [here](https://github.com/mahmoodlab/CLAM).
+Please refer to the original CLAM documentation for pipeline setup and usage instructions.
 
+Additional Scripts
+
+This repository contains several additional scripts and notebooks for data preparation, analysis, and sanity checks, located in the Additional folder:
+	•	CLAM_UNI/AG2_heatmap_analysis.ipynb: Contains inference code for aggregated data.
+	•	Aggregation.ipynb: Combines features extracted from TMAs and WSIs.
+	•	checking_out_the_clam_outputs.ipynb: Analyzes attention outputs from the CLAM model.
+	•	Statistical_analysis.ipynb: Performs statistical comparisons (e.g., t-tests, U-tests) and generates related plots for the thesis.
+	•	TMA_constructor.py: Assembles multi-stained TMA data used in the thesis.
+	•	vizs.ipynb: Visualizes and compares results extracted from the CLAM_UNI.
+
+License
+
+This code is released under the GPLv3 License, in accordance with the original CLAM repository.
+
+Let me know if you’d like any additional edits!
